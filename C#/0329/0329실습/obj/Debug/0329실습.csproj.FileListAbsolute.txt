@@ -1,0 +1,15 @@
+E:\비트고급\실습\0329실습\0329실습\bin\Debug\0329실습.exe.config
+E:\비트고급\실습\0329실습\0329실습\bin\Debug\0329실습.exe
+E:\비트고급\실습\0329실습\0329실습\bin\Debug\0329실습.pdb
+E:\비트고급\실습\0329실습\0329실습\obj\Debug\0329실습.csproj.AssemblyReference.cache
+E:\비트고급\실습\0329실습\0329실습\obj\Debug\0329실습.csproj.CoreCompileInputs.cache
+E:\비트고급\실습\0329실습\0329실습\obj\Debug\0329실습.exe
+E:\비트고급\실습\0329실습\0329실습\obj\Debug\0329실습.pdb
+C:\Users\user\Desktop\C#\0330_실습\1조_완료_0329실습 (2)\0329실습\bin\Debug\0329실습.exe.config
+C:\Users\user\Desktop\C#\0330_실습\1조_완료_0329실습 (2)\0329실습\bin\Debug\0329실습.exe
+C:\Users\user\Desktop\C#\0330_실습\1조_완료_0329실습 (2)\0329실습\bin\Debug\0329실습.pdb
+C:\Users\user\Desktop\C#\0330_실습\1조_완료_0329실습 (2)\0329실습\obj\Debug\0329실습.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#\0330_실습\1조_완료_0329실습 (2)\0329실습\obj\Debug\0329실습.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\C#\0330_실습\1조_완료_0329실습 (2)\0329실습\obj\Debug\0329실습.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\0330_실습\1조_완료_0329실습 (2)\0329실습\obj\Debug\0329실습.exe
+C:\Users\user\Desktop\C#\0330_실습\1조_완료_0329실습 (2)\0329실습\obj\Debug\0329실습.pdb

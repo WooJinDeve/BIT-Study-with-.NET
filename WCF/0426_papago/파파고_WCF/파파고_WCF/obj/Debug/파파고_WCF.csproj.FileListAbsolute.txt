@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\파파고_WCF\파파고_WCF\bin\Debug\파파고_WCF.exe.config
+C:\Users\user\Desktop\파파고_WCF\파파고_WCF\bin\Debug\파파고_WCF.exe
+C:\Users\user\Desktop\파파고_WCF\파파고_WCF\bin\Debug\파파고_WCF.pdb
+C:\Users\user\Desktop\파파고_WCF\파파고_WCF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\파파고_WCF\파파고_WCF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\파파고_WCF\파파고_WCF\obj\Debug\파파고_WCF.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\파파고_WCF\파파고_WCF\obj\Debug\파파고_WCF.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\파파고_WCF\파파고_WCF\obj\Debug\파파고_WCF.csproj.CopyComplete
+C:\Users\user\Desktop\파파고_WCF\파파고_WCF\obj\Debug\파파고_WCF.exe
+C:\Users\user\Desktop\파파고_WCF\파파고_WCF\obj\Debug\파파고_WCF.pdb

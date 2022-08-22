@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0427_1대1(Client)\0427_1대1(Client)\bin\Debug\0427_1대1(Client).exe.config
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0427_1대1(Client)\0427_1대1(Client)\bin\Debug\0427_1대1(Client).exe
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0427_1대1(Client)\0427_1대1(Client)\bin\Debug\0427_1대1(Client).pdb
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0427_1대1(Client)\0427_1대1(Client)\obj\Debug\0427_1대1(Client).csproj.AssemblyReference.cache
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0427_1대1(Client)\0427_1대1(Client)\obj\Debug\0427_1대1(Client).csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0427_1대1(Client)\0427_1대1(Client)\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0427_1대1(Client)\0427_1대1(Client)\obj\Debug\App.g.cs
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0427_1대1(Client)\0427_1대1(Client)\obj\Debug\0427_1대1(Client)_MarkupCompile.cache
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0427_1대1(Client)\0427_1대1(Client)\obj\Debug\0427_1대1(Client)_MarkupCompile.lref
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0427_1대1(Client)\0427_1대1(Client)\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0427_1대1(Client)\0427_1대1(Client)\obj\Debug\0427_1대1(Client).g.resources
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0427_1대1(Client)\0427_1대1(Client)\obj\Debug\_0427_1대1_Client_.Properties.Resources.resources
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0427_1대1(Client)\0427_1대1(Client)\obj\Debug\0427_1대1(Client).csproj.GenerateResource.cache
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0427_1대1(Client)\0427_1대1(Client)\obj\Debug\0427_1대1(Client).csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0427_1대1(Client)\0427_1대1(Client)\obj\Debug\0427_1대1(Client).exe
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0427_1대1(Client)\0427_1대1(Client)\obj\Debug\0427_1대1(Client).pdb

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="OutputText">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="in_lan" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="out_lan" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="intput_text" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="OutputTextResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="OutputTextResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="OutputTextSoapIn">
+    <wsdl:part name="parameters" element="tns:OutputText" />
+  </wsdl:message>
+  <wsdl:message name="OutputTextSoapOut">
+    <wsdl:part name="parameters" element="tns:OutputTextResponse" />
+  </wsdl:message>
+  <wsdl:portType name="WbPapagoSoap">
+    <wsdl:operation name="OutputText">
+      <wsdl:input message="tns:OutputTextSoapIn" />
+      <wsdl:output message="tns:OutputTextSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="WbPapagoSoap" type="tns:WbPapagoSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="OutputText">
+      <soap:operation soapAction="http://tempuri.org/OutputText" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="WbPapagoSoap12" type="tns:WbPapagoSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="OutputText">
+      <soap12:operation soapAction="http://tempuri.org/OutputText" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="WbPapago">
+    <wsdl:port name="WbPapagoSoap" binding="tns:WbPapagoSoap">
+      <soap:address location="https://localhost:44308/WbPapago.asmx" />
+    </wsdl:port>
+    <wsdl:port name="WbPapagoSoap12" binding="tns:WbPapagoSoap12">
+      <soap12:address location="https://localhost:44308/WbPapago.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

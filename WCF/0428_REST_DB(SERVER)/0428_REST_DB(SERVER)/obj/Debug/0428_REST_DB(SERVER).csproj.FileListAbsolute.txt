@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0428_REST_DB(SERVER)\0428_REST_DB(SERVER)\bin\0428_REST_DB(SERVER).dll.config
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0428_REST_DB(SERVER)\0428_REST_DB(SERVER)\bin\0428_REST_DB(SERVER).dll
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0428_REST_DB(SERVER)\0428_REST_DB(SERVER)\bin\0428_REST_DB(SERVER).pdb
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0428_REST_DB(SERVER)\0428_REST_DB(SERVER)\obj\Debug\0428_REST_DB(SERVER).csproj.AssemblyReference.cache
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0428_REST_DB(SERVER)\0428_REST_DB(SERVER)\obj\Debug\0428_REST_DB(SERVER).csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0428_REST_DB(SERVER)\0428_REST_DB(SERVER)\obj\Debug\0428_REST_DB(SERVER).dll
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0428_REST_DB(SERVER)\0428_REST_DB(SERVER)\obj\Debug\0428_REST_DB(SERVER).pdb

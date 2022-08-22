@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\0329_Library\0329_Library\bin\Debug\0329_Library.exe.config
+C:\Users\user\Desktop\0329_Library\0329_Library\bin\Debug\0329_Library.exe
+C:\Users\user\Desktop\0329_Library\0329_Library\bin\Debug\0329_Library.pdb
+C:\Users\user\Desktop\0329_Library\0329_Library\obj\Debug\0329_Library.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\0329_Library\0329_Library\obj\Debug\0329_Library.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\0329_Library\0329_Library\obj\Debug\0329_Library.exe
+C:\Users\user\Desktop\0329_Library\0329_Library\obj\Debug\0329_Library.pdb

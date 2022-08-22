@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\0425_WCF(client)\0425_WCF(client)\bin\Debug\0425_WCF(client).exe.config
+C:\Users\user\Desktop\0425_WCF(client)\0425_WCF(client)\bin\Debug\0425_WCF(client).exe
+C:\Users\user\Desktop\0425_WCF(client)\0425_WCF(client)\bin\Debug\0425_WCF(client).pdb
+C:\Users\user\Desktop\0425_WCF(client)\0425_WCF(client)\obj\Debug\_0425_WCF_client_.PictureClient.resources
+C:\Users\user\Desktop\0425_WCF(client)\0425_WCF(client)\obj\Debug\_0425_WCF_client_.Properties.Resources.resources
+C:\Users\user\Desktop\0425_WCF(client)\0425_WCF(client)\obj\Debug\0425_WCF(client).csproj.GenerateResource.cache
+C:\Users\user\Desktop\0425_WCF(client)\0425_WCF(client)\obj\Debug\0425_WCF(client).csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\0425_WCF(client)\0425_WCF(client)\obj\Debug\0425_WCF(client).exe
+C:\Users\user\Desktop\0425_WCF(client)\0425_WCF(client)\obj\Debug\0425_WCF(client).pdb
+C:\Users\user\Desktop\0425_WCF(client)\0425_WCF(client)\obj\Debug\_0425_WCF_client_.PicListForm.resources
+C:\Users\user\Desktop\0425_WCF(client)\0425_WCF(client)\obj\Debug\0425_WCF(client).csproj.AssemblyReference.cache

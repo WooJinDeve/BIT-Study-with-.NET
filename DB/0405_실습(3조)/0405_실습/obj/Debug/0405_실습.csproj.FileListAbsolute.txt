@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\0405_실습\0405_실습\bin\Debug\0405_실습.exe.config
+C:\Users\user\Desktop\0405_실습\0405_실습\bin\Debug\0405_실습.exe
+C:\Users\user\Desktop\0405_실습\0405_실습\bin\Debug\0405_실습.pdb
+C:\Users\user\Desktop\0405_실습\0405_실습\obj\Debug\0405_실습.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\0405_실습\0405_실습\obj\Debug\0405_실습.exe
+C:\Users\user\Desktop\0405_실습\0405_실습\obj\Debug\0405_실습.pdb
+C:\Users\user\Desktop\0405_실습\0405_실습\obj\Debug\0405_실습.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\정우진\비트고급\DB\실습\0405_실습(3조)\0405_실습\obj\Debug\0405_실습.csprojAssemblyReference.cache
+C:\Users\User\Desktop\정우진\비트고급\DB\실습\0405_실습(3조)\0405_실습\obj\Debug\0405_실습.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\정우진\비트고급\DB\실습\0405_실습(3조)\0405_실습\obj\Debug\0405_실습.exe
+C:\Users\User\Desktop\정우진\비트고급\DB\실습\0405_실습(3조)\0405_실습\obj\Debug\0405_실습.pdb
+C:\Users\User\Desktop\정우진\비트고급\DB\실습\0405_실습(3조)\0405_실습\bin\Debug\0405_실습.exe.config
+C:\Users\User\Desktop\정우진\비트고급\DB\실습\0405_실습(3조)\0405_실습\bin\Debug\0405_실습.exe
+C:\Users\User\Desktop\정우진\비트고급\DB\실습\0405_실습(3조)\0405_실습\bin\Debug\0405_실습.pdb

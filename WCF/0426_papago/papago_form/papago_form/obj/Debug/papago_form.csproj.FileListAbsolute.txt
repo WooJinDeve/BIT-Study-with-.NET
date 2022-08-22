@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\papago_form\papago_form\obj\Debug\papago_form.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\papago_form\papago_form\obj\Debug\papago_form.Form1.resources
+C:\Users\user\source\repos\papago_form\papago_form\obj\Debug\papago_form.Properties.Resources.resources
+C:\Users\user\source\repos\papago_form\papago_form\obj\Debug\papago_form.csproj.GenerateResource.cache
+C:\Users\user\source\repos\papago_form\papago_form\obj\Debug\papago_form.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\papago_form\papago_form\bin\Debug\papago_form.exe.config
+C:\Users\user\source\repos\papago_form\papago_form\bin\Debug\papago_form.exe
+C:\Users\user\source\repos\papago_form\papago_form\bin\Debug\papago_form.pdb
+C:\Users\user\source\repos\papago_form\papago_form\obj\Debug\papago_form.exe
+C:\Users\user\source\repos\papago_form\papago_form\obj\Debug\papago_form.pdb

@@ -1,0 +1,177 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "winres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// 한국어(대한민국) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_KOR)
+LANGUAGE LANG_KOREAN, SUBLANG_DEFAULT
+#pragma code_page(949)
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""winres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_DIALOG1 DIALOGEX 0, 0, 481, 180
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Dialog"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    PUSHBUTTON      "책 정보 등록..",IDC_BUTTON1,77,12,59,17
+    GROUPBOX        "도서관리프로그램",IDC_STATIC,7,7,467,166
+    PUSHBUTTON      "책 정보 검색..",IDC_BUTTON2,149,12,59,17
+    PUSHBUTTON      "책 정보 수정..",IDC_BUTTON3,222,12,59,19
+    PUSHBUTTON      "책 정보 삭제..",IDC_BUTTON4,291,12,59,19
+    CONTROL         "",IDC_LIST1,"SysListView32",LVS_REPORT | LVS_ALIGNLEFT | WS_BORDER | WS_TABSTOP,24,33,428,98
+    LTEXT           "등록된 책정보 : 0개",IDC_STATIC2,383,135,65,11
+    PUSHBUTTON      "전체 출력..",IDC_BUTTON5,358,12,59,19
+    LTEXT           "고유번호",IDC_STATIC,38,155,30,8
+    LTEXT           "책제목",IDC_STATIC,112,155,23,8
+    LTEXT           "출판사",IDC_STATIC,185,154,23,8
+    LTEXT           "가격(원)",IDC_STATIC,245,154,28,8
+    LTEXT           "제고(개)",IDC_STATIC,309,153,28,8
+    EDITTEXT        IDC_EDIT1,27,136,55,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT2,95,136,55,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT3,165,136,55,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT6,229,136,55,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT7,293,136,55,14,ES_AUTOHSCROLL
+END
+
+IDD_DIALOG2 DIALOGEX 0, 0, 245, 97
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Dialog"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    DEFPUSHBUTTON   "등록",IDOK,181,38,50,14
+    LTEXT           "고유번호",IDC_STATIC,33,17,30,8
+    LTEXT           "책제목",IDC_STATIC,35,30,23,8
+    LTEXT           "출판사",IDC_STATIC,35,45,23,8
+    LTEXT           "가격",IDC_STATIC,38,59,16,8
+    LTEXT           "제고",IDC_STATIC,38,76,16,8
+    GROUPBOX        "책 정보 등록",IDC_STATIC,7,7,231,83
+    EDITTEXT        IDC_EDIT1,67,16,108,11,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT2,67,30,108,11,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT3,67,44,108,11,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT4,67,59,108,11,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT5,67,74,108,11,ES_AUTOHSCROLL
+END
+
+IDD_DIALOG3 DIALOGEX 0, 0, 267, 48
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Dialog"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    DEFPUSHBUTTON   "확인",IDOK,197,17,50,14
+    LTEXT           "책 고유번호 입력",IDC_STATIC,15,21,56,8
+    EDITTEXT        IDC_EDIT1,81,17,103,14,ES_AUTOHSCROLL
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO
+BEGIN
+    IDD_DIALOG1, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 474
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 173
+    END
+
+    IDD_DIALOG2, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 238
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 90
+    END
+
+    IDD_DIALOG3, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 260
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 41
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// AFX_DIALOG_LAYOUT
+//
+
+IDD_DIALOG1 AFX_DIALOG_LAYOUT
+BEGIN
+    0
+END
+
+IDD_DIALOG2 AFX_DIALOG_LAYOUT
+BEGIN
+    0
+END
+
+IDD_DIALOG3 AFX_DIALOG_LAYOUT
+BEGIN
+    0
+END
+
+#endif    // 한국어(대한민국) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

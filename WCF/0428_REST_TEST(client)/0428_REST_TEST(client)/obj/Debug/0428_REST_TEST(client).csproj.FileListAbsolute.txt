@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0428_REST_TEST(client)\0428_REST_TEST(client)\bin\Debug\0428_REST_TEST(client).exe.config
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0428_REST_TEST(client)\0428_REST_TEST(client)\bin\Debug\0428_REST_TEST(client).exe
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0428_REST_TEST(client)\0428_REST_TEST(client)\bin\Debug\0428_REST_TEST(client).pdb
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0428_REST_TEST(client)\0428_REST_TEST(client)\obj\Debug\0428_REST_TEST(client).csproj.AssemblyReference.cache
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0428_REST_TEST(client)\0428_REST_TEST(client)\obj\Debug\0428_REST_TEST(client).csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0428_REST_TEST(client)\0428_REST_TEST(client)\obj\Debug\_0428_REST_TEST_client_.Form1.resources
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0428_REST_TEST(client)\0428_REST_TEST(client)\obj\Debug\_0428_REST_TEST_client_.Properties.Resources.resources
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0428_REST_TEST(client)\0428_REST_TEST(client)\obj\Debug\0428_REST_TEST(client).csproj.GenerateResource.cache
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0428_REST_TEST(client)\0428_REST_TEST(client)\obj\Debug\0428_REST_TEST(client).csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0428_REST_TEST(client)\0428_REST_TEST(client)\obj\Debug\0428_REST_TEST(client).exe
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0428_REST_TEST(client)\0428_REST_TEST(client)\obj\Debug\0428_REST_TEST(client).pdb

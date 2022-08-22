@@ -1,0 +1,72 @@
+﻿<Window x:Class="_0418_과제.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_0418_과제"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Keyboard.KeyDown="Window_KeyDown">
+    <DockPanel LastChildFill="True">  
+        <Menu DockPanel.Dock="Top">
+            <MenuItem Header="파일">
+                <MenuItem Header="프로그램 종료" Click="ClostItem_Click"/>
+                <Separator/>
+                <MenuItem Header="저장" Click="SaveItem_Click"/>
+                <MenuItem Header="불러오기" Click="LoadItem_Click"/>
+            </MenuItem>
+            <MenuItem Header="옵션">
+                <MenuItem Header="빨강" Click="MenuItem1_Click"/>
+                <MenuItem Header="녹색" Click="MenuItem2_Click"/>
+                <MenuItem Header="파랑" Click="MenuItem3_Click"/>
+                <MenuItem Header="칼라공통다이얼로그실행" Click="MenuItem4_Click"/>
+            </MenuItem>
+        </Menu>
+        <StatusBar Name="StatusBar" Background="Aqua" Height="25" DockPanel.Dock="Bottom" >
+            <StatusBarItem  Name="StatusBar1" Width="100" HorizontalAlignment="Center" />
+            <StatusBarItem  Name="StatusBar2" Width="100" HorizontalAlignment="Center" />
+            <StatusBarItem  Name="StatusBar3" Width="100" HorizontalAlignment="Center" />
+        </StatusBar>
+        <Grid DockPanel.Dock="Left" Background="Beige" Width="300">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition SharedSizeGroup="Group1" Width="85*"/>
+                <ColumnDefinition SharedSizeGroup="Group2" Width="59*"/>
+                <ColumnDefinition SharedSizeGroup="Group3" Width="112*"/>
+            </Grid.ColumnDefinitions>
+            <Label Grid.Row="0" Grid.Column="0" HorizontalAlignment="Center" Content="타입" Margin="26,5,25,5" Width="34" />
+            <ComboBox Name="ComboBox" Grid.Row="0" Grid.Column="2" HorizontalAlignment="Center"  Width="100" >
+                <ComboBoxItem Content="사각형" Selected="ComboBoxItem1_Selected"/>
+                <ComboBoxItem Content="타원" Selected="ComboBoxItem2_Selected"/>
+            </ComboBox>
+            <Label Grid.Row="1" Grid.Column="0" HorizontalAlignment="Center" Content="색상" />
+            <Label Grid.Row="1" Grid.Column="1" HorizontalAlignment="Center" Content="R"/>
+            <Label Grid.Row="2" Grid.Column="1" HorizontalAlignment="Center" Content="G"/>
+            <Label Grid.Row="3" Grid.Column="1" HorizontalAlignment="Center" Content="B"/>
+            <Label Grid.Row="4" Grid.Column="1" HorizontalAlignment="Center" />
+            <TextBox Name ="RedTextBox" Grid.Row="1" Grid.Column="2"  HorizontalAlignment="Center" Width="100" Text="255"/>
+            <TextBox Name ="GreenTextBox" Grid.Row="2" Grid.Column="2"  HorizontalAlignment="Center" Width="100" Text="0"/>
+            <TextBox Name ="BlueTextBox" Grid.Row="3" Grid.Column="2"  HorizontalAlignment="Center" Width="100" Text="0"/>
+            <Button  Grid.Row="4" Grid.Column="2" Content="[색상변경]" Width="100" Click="Button_Click"/>
+            <Label Grid.Row="5" Grid.Column="0" HorizontalAlignment="Center" Content="위치" />
+            <Label Grid.Row="5" Grid.Column="1" HorizontalAlignment="Center" Content="X" />
+            <Label Grid.Row="6" Grid.Column="1" HorizontalAlignment="Center" Content="Y" />
+            <Label Grid.Row="7" Grid.Column="1" HorizontalAlignment="Center" Content="Width" />
+            <Label Grid.Row="8" Grid.Column="1" HorizontalAlignment="Center" Content="Height" />
+            <TextBox  Name ="XTextBox" Grid.Row="5" Grid.Column="2"  HorizontalAlignment="Center" Width="100" />
+            <TextBox  Name ="YTextBox" Grid.Row="6" Grid.Column="2"  HorizontalAlignment="Center" Width="100"  />
+            <TextBox  Name ="WidthTextBox" Grid.Row="7" Grid.Column="2"  HorizontalAlignment="Center" Width="100" Text="50"/>
+            <TextBox  Name ="HeightTextBox" Grid.Row="8" Grid.Column="2"  HorizontalAlignment="Center" Width="100" Text="50"/>
+        </Grid>
+        <Canvas DockPanel.Dock="Right"  Name="canvas" Background="White"  MouseMove="Canvas_MouseMove"  MouseLeftButtonUp="canvas_MouseLeftButtonUp" />
+    </DockPanel>
+</Window>

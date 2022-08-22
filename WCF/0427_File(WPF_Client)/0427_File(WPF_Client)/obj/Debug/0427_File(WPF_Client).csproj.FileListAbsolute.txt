@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0427_File(WPF_Client)\0427_File(WPF_Client)\obj\Debug\0427_File(WPF_Client).csproj.AssemblyReference.cache
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0427_File(WPF_Client)\0427_File(WPF_Client)\obj\Debug\0427_File(WPF_Client).csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0427_File(WPF_Client)\0427_File(WPF_Client)\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0427_File(WPF_Client)\0427_File(WPF_Client)\obj\Debug\App.g.cs
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0427_File(WPF_Client)\0427_File(WPF_Client)\obj\Debug\0427_File(WPF_Client)_MarkupCompile.cache
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0427_File(WPF_Client)\0427_File(WPF_Client)\obj\Debug\0427_File(WPF_Client)_MarkupCompile.lref
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0427_File(WPF_Client)\0427_File(WPF_Client)\bin\Debug\0427_File(WPF_Client).exe.config
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0427_File(WPF_Client)\0427_File(WPF_Client)\bin\Debug\0427_File(WPF_Client).exe
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0427_File(WPF_Client)\0427_File(WPF_Client)\bin\Debug\0427_File(WPF_Client).pdb
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0427_File(WPF_Client)\0427_File(WPF_Client)\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0427_File(WPF_Client)\0427_File(WPF_Client)\obj\Debug\0427_File(WPF_Client).g.resources
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0427_File(WPF_Client)\0427_File(WPF_Client)\obj\Debug\_0427_File_WPF_Client_.Properties.Resources.resources
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0427_File(WPF_Client)\0427_File(WPF_Client)\obj\Debug\0427_File(WPF_Client).csproj.GenerateResource.cache
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0427_File(WPF_Client)\0427_File(WPF_Client)\obj\Debug\0427_File(WPF_Client).csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0427_File(WPF_Client)\0427_File(WPF_Client)\obj\Debug\0427_File(WPF_Client).exe
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0427_File(WPF_Client)\0427_File(WPF_Client)\obj\Debug\0427_File(WPF_Client).pdb

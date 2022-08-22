@@ -1,0 +1,3 @@
+﻿  03_해결코드.cpp
+C:\Users\User\Desktop\정우진\비트고급\WSP\실습\0315_예외처리\0315_예외처리\03_해결코드.cpp(20,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  0315_예외처리.vcxproj -> C:\Users\User\Desktop\정우진\비트고급\WSP\실습\0315_예외처리\Debug\0315_예외처리.exe

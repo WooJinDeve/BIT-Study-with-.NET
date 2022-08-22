@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\0425_MemberDB\0425_MemberDB\bin\Debug\0425_MemberDB.exe.config
+C:\Users\user\Desktop\0425_MemberDB\0425_MemberDB\bin\Debug\0425_MemberDB.exe
+C:\Users\user\Desktop\0425_MemberDB\0425_MemberDB\bin\Debug\0425_MemberDB.pdb
+C:\Users\user\Desktop\0425_MemberDB\0425_MemberDB\obj\Debug\0425_MemberDB.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\0425_MemberDB\0425_MemberDB\obj\Debug\0425_MemberDB.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\0425_MemberDB\0425_MemberDB\obj\Debug\0425_MemberDB.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\0425_MemberDB\0425_MemberDB\obj\Debug\0425_MemberDB.exe
+C:\Users\user\Desktop\0425_MemberDB\0425_MemberDB\obj\Debug\0425_MemberDB.pdb

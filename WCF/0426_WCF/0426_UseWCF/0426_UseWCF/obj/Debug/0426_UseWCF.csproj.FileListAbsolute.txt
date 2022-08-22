@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\0426_UseWCF\0426_UseWCF\bin\Debug\0426_UseWCF.exe.config
+C:\Users\user\Desktop\0426_UseWCF\0426_UseWCF\bin\Debug\0426_UseWCF.exe
+C:\Users\user\Desktop\0426_UseWCF\0426_UseWCF\bin\Debug\0426_UseWCF.pdb
+C:\Users\user\Desktop\0426_UseWCF\0426_UseWCF\obj\Debug\0426_UseWCF.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\0426_UseWCF\0426_UseWCF\obj\Debug\0426_UseWCF.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\0426_UseWCF\0426_UseWCF\obj\Debug\0426_UseWCF.exe
+C:\Users\user\Desktop\0426_UseWCF\0426_UseWCF\obj\Debug\0426_UseWCF.pdb
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0426_WCF\0426_UseWCF\0426_UseWCF\bin\Debug\0426_UseWCF.exe.config
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0426_WCF\0426_UseWCF\0426_UseWCF\bin\Debug\0426_UseWCF.exe
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0426_WCF\0426_UseWCF\0426_UseWCF\bin\Debug\0426_UseWCF.pdb
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0426_WCF\0426_UseWCF\0426_UseWCF\obj\Debug\0426_UseWCF.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0426_WCF\0426_UseWCF\0426_UseWCF\obj\Debug\0426_UseWCF.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0426_WCF\0426_UseWCF\0426_UseWCF\obj\Debug\0426_UseWCF.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0426_WCF\0426_UseWCF\0426_UseWCF\obj\Debug\0426_UseWCF.exe
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0426_WCF\0426_UseWCF\0426_UseWCF\obj\Debug\0426_UseWCF.pdb

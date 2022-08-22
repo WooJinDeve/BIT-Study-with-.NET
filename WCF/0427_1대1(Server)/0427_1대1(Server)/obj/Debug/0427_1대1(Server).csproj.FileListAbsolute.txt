@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0427_1대1(Server)\0427_1대1(Server)\bin\Debug\0427_1대1(Server).exe.config
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0427_1대1(Server)\0427_1대1(Server)\bin\Debug\0427_1대1(Server).exe
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0427_1대1(Server)\0427_1대1(Server)\bin\Debug\0427_1대1(Server).pdb
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0427_1대1(Server)\0427_1대1(Server)\obj\Debug\0427_1대1(Server).csproj.AssemblyReference.cache
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0427_1대1(Server)\0427_1대1(Server)\obj\Debug\0427_1대1(Server).csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0427_1대1(Server)\0427_1대1(Server)\obj\Debug\0427_1대1(Server).csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0427_1대1(Server)\0427_1대1(Server)\obj\Debug\0427_1대1(Server).exe
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0427_1대1(Server)\0427_1대1(Server)\obj\Debug\0427_1대1(Server).pdb

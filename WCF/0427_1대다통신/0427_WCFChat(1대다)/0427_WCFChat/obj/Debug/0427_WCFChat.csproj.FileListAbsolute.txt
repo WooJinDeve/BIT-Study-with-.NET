@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\0427_WCFChat\0427_WCFChat\bin\Debug\0427_WCFChat.exe.config
+C:\Users\user\Desktop\0427_WCFChat\0427_WCFChat\bin\Debug\0427_WCFChat.exe
+C:\Users\user\Desktop\0427_WCFChat\0427_WCFChat\bin\Debug\0427_WCFChat.pdb
+C:\Users\user\Desktop\0427_WCFChat\0427_WCFChat\obj\Debug\0427_WCFChat.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\0427_WCFChat\0427_WCFChat\obj\Debug\0427_WCFChat.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\0427_WCFChat\0427_WCFChat\obj\Debug\0427_WCFChat.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\0427_WCFChat\0427_WCFChat\obj\Debug\0427_WCFChat.exe
+C:\Users\user\Desktop\0427_WCFChat\0427_WCFChat\obj\Debug\0427_WCFChat.pdb
+C:\Users\user\Desktop\0427_WCFChat(1대다)\0427_WCFChat\obj\Debug\0427_WCFChat.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\0427_WCFChat(1대다)\0427_WCFChat\obj\Debug\0427_WCFChat.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\0427_WCFChat(1대다)\0427_WCFChat\obj\Debug\0427_WCFChat.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\0427_WCFChat(1대다)\0427_WCFChat\bin\Debug\0427_WCFChat.exe.config
+C:\Users\user\Desktop\0427_WCFChat(1대다)\0427_WCFChat\bin\Debug\0427_WCFChat.exe
+C:\Users\user\Desktop\0427_WCFChat(1대다)\0427_WCFChat\bin\Debug\0427_WCFChat.pdb
+C:\Users\user\Desktop\0427_WCFChat(1대다)\0427_WCFChat\obj\Debug\0427_WCFChat.exe
+C:\Users\user\Desktop\0427_WCFChat(1대다)\0427_WCFChat\obj\Debug\0427_WCFChat.pdb

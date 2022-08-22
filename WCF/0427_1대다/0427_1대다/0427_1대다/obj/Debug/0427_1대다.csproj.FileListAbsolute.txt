@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\0427_1대다\0427_1대다\obj\Debug\0427_1대다.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\0427_1대다\0427_1대다\obj\Debug\0427_1대다.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\0427_1대다\0427_1대다\bin\Debug\0427_1대다.exe.config
+C:\Users\user\Desktop\0427_1대다\0427_1대다\bin\Debug\0427_1대다.exe
+C:\Users\user\Desktop\0427_1대다\0427_1대다\bin\Debug\0427_1대다.pdb
+C:\Users\user\Desktop\0427_1대다\0427_1대다\obj\Debug\0427_1대다.exe
+C:\Users\user\Desktop\0427_1대다\0427_1대다\obj\Debug\0427_1대다.pdb

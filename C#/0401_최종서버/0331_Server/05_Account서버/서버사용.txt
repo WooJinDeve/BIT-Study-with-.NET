@@ -1,0 +1,41 @@
+﻿[네트웤을 사용하는 클래스] : AccountControl.cs
+
+1) 기본 필드 구성
+#region 네트웤 사용 필드
+private const int SERVER_PORT = 7000;
+private WbServer server = null;
+#endregion
+
+2) CALL BACK 함수
+#region 네트웤 콜백 메서드
+private void LogMessage(LogFlag flag, string msg)
+{
+    Console.WriteLine("[{0}] : {1} ({2})",
+                flag, msg, DateTime.Now.ToString());
+}
+
+private void RecvMessage(Socket client, string msg)
+{
+     Console.WriteLine("수신 : " + msg);
+
+     //송신
+     //server.SendData(client, msg);
+    server.SendAllData(client, msg,true);
+}
+#endregion
+
+
+3) 서버 실행(void Start())
+server = new WbServer(SERVER_PORT); //소켓생성--> listen
+server.Start(LogMessage, RecvMessage); //ListenThread
+
+4) 서버 종료(void Stop())
+server.Dispose(); //ListenThread를 종료, 대기소켓close
+server = null;
+
+--------------------------------------------------------------
+서버 실행..
+  -> 클라이언트 동작. (동일하게 동작)
+서버 종료
+  -> 메시지 수신이 안됨...(접속도 안됨)
+---------------------------------------------------------------

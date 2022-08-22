@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\0419_바인딩\0419_바인딩\bin\Debug\0419_바인딩.exe.config
+C:\Users\user\Desktop\0419_바인딩\0419_바인딩\bin\Debug\0419_바인딩.exe
+C:\Users\user\Desktop\0419_바인딩\0419_바인딩\bin\Debug\0419_바인딩.pdb
+C:\Users\user\Desktop\0419_바인딩\0419_바인딩\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\0419_바인딩\0419_바인딩\obj\Debug\App.g.cs
+C:\Users\user\Desktop\0419_바인딩\0419_바인딩\obj\Debug\0419_바인딩_MarkupCompile.cache
+C:\Users\user\Desktop\0419_바인딩\0419_바인딩\obj\Debug\0419_바인딩_MarkupCompile.lref
+C:\Users\user\Desktop\0419_바인딩\0419_바인딩\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\0419_바인딩\0419_바인딩\obj\Debug\0419_바인딩.g.resources
+C:\Users\user\Desktop\0419_바인딩\0419_바인딩\obj\Debug\_0419_바인딩.Properties.Resources.resources
+C:\Users\user\Desktop\0419_바인딩\0419_바인딩\obj\Debug\0419_바인딩.csproj.GenerateResource.cache
+C:\Users\user\Desktop\0419_바인딩\0419_바인딩\obj\Debug\0419_바인딩.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\0419_바인딩\0419_바인딩\obj\Debug\0419_바인딩.exe
+C:\Users\user\Desktop\0419_바인딩\0419_바인딩\obj\Debug\0419_바인딩.pdb
+C:\Users\user\Desktop\0419_바인딩\0419_바인딩\obj\Debug\데이터바인딩\Window1.g.cs
+C:\Users\user\Desktop\0419_바인딩\0419_바인딩\obj\Debug\데이터바인딩\Window1.baml
+C:\Users\user\Desktop\0419_바인딩\0419_바인딩\obj\Debug\GeneratedInternalTypeHelper.g.cs

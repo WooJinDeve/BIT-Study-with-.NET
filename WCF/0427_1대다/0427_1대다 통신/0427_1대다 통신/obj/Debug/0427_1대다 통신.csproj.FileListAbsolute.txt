@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\0427_1대다 통신\0427_1대다 통신\obj\Debug\0427_1대다 통신.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\0427_1대다 통신\0427_1대다 통신\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\0427_1대다 통신\0427_1대다 통신\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\0427_1대다 통신\0427_1대다 통신\obj\Debug\App.g.cs
+C:\Users\user\Desktop\0427_1대다 통신\0427_1대다 통신\obj\Debug\0427_1대다 통신_MarkupCompile.cache
+C:\Users\user\Desktop\0427_1대다 통신\0427_1대다 통신\obj\Debug\0427_1대다 통신.g.resources
+C:\Users\user\Desktop\0427_1대다 통신\0427_1대다 통신\obj\Debug\_0427_1대다_통신.Properties.Resources.resources
+C:\Users\user\Desktop\0427_1대다 통신\0427_1대다 통신\obj\Debug\0427_1대다 통신.csproj.GenerateResource.cache
+C:\Users\user\Desktop\0427_1대다 통신\0427_1대다 통신\obj\Debug\0427_1대다 통신.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\0427_1대다 통신\0427_1대다 통신\bin\Debug\0427_1대다 통신.exe.config
+C:\Users\user\Desktop\0427_1대다 통신\0427_1대다 통신\bin\Debug\0427_1대다 통신.exe
+C:\Users\user\Desktop\0427_1대다 통신\0427_1대다 통신\bin\Debug\0427_1대다 통신.pdb
+C:\Users\user\Desktop\0427_1대다 통신\0427_1대다 통신\obj\Debug\0427_1대다 통신.exe
+C:\Users\user\Desktop\0427_1대다 통신\0427_1대다 통신\obj\Debug\0427_1대다 통신.pdb

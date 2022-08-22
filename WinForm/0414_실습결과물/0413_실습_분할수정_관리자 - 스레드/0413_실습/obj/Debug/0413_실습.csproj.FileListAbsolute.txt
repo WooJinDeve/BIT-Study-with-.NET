@@ -1,0 +1,36 @@
+C:\Users\user\Desktop\0413_실습\0413_실습\bin\Debug\0413_실습.exe.config
+C:\Users\user\Desktop\0413_실습\0413_실습\bin\Debug\0413_실습.exe
+C:\Users\user\Desktop\0413_실습\0413_실습\bin\Debug\0413_실습.pdb
+C:\Users\user\Desktop\0413_실습\0413_실습\obj\Debug\0413_실습.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\0413_실습\0413_실습\obj\Debug\0413_실습.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\0413_실습\0413_실습\obj\Debug\_0413_실습.LogInForm.resources
+C:\Users\user\Desktop\0413_실습\0413_실습\obj\Debug\_0413_실습.MainForm.resources
+C:\Users\user\Desktop\0413_실습\0413_실습\obj\Debug\_0413_실습.NewMemberForm.resources
+C:\Users\user\Desktop\0413_실습\0413_실습\obj\Debug\_0413_실습.SelectForm.resources
+C:\Users\user\Desktop\0413_실습\0413_실습\obj\Debug\_0413_실습.Properties.Resources.resources
+C:\Users\user\Desktop\0413_실습\0413_실습\obj\Debug\0413_실습.csproj.GenerateResource.cache
+C:\Users\user\Desktop\0413_실습\0413_실습\obj\Debug\0413_실습.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\0413_실습\0413_실습\obj\Debug\0413_실습.exe
+C:\Users\user\Desktop\0413_실습\0413_실습\obj\Debug\0413_실습.pdb
+C:\Users\user\Desktop\0413_실습_분할수정_관리자\0413_실습\bin\Debug\0413_실습.exe.config
+C:\Users\user\Desktop\0413_실습_분할수정_관리자\0413_실습\bin\Debug\0413_실습.exe
+C:\Users\user\Desktop\0413_실습_분할수정_관리자\0413_실습\bin\Debug\0413_실습.pdb
+C:\Users\user\Desktop\0413_실습_분할수정_관리자\0413_실습\obj\Debug\0413_실습.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\0413_실습_분할수정_관리자\0413_실습\obj\Debug\0413_실습.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\0413_실습_분할수정_관리자\0413_실습\obj\Debug\_0413_실습.MainForm.resources
+C:\Users\user\Desktop\0413_실습_분할수정_관리자\0413_실습\obj\Debug\_0413_실습.Properties.Resources.resources
+C:\Users\user\Desktop\0413_실습_분할수정_관리자\0413_실습\obj\Debug\0413_실습.csproj.GenerateResource.cache
+C:\Users\user\Desktop\0413_실습_분할수정_관리자\0413_실습\obj\Debug\0413_실습.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\0413_실습_분할수정_관리자\0413_실습\obj\Debug\0413_실습.exe
+C:\Users\user\Desktop\0413_실습_분할수정_관리자\0413_실습\obj\Debug\0413_실습.pdb
+C:\Users\user\Desktop\0413_실습_분할수정_관리자 - 스레드\0413_실습\bin\Debug\0413_실습.exe.config
+C:\Users\user\Desktop\0413_실습_분할수정_관리자 - 스레드\0413_실습\bin\Debug\0413_실습.exe
+C:\Users\user\Desktop\0413_실습_분할수정_관리자 - 스레드\0413_실습\bin\Debug\0413_실습.pdb
+C:\Users\user\Desktop\0413_실습_분할수정_관리자 - 스레드\0413_실습\obj\Debug\0413_실습.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\0413_실습_분할수정_관리자 - 스레드\0413_실습\obj\Debug\0413_실습.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\0413_실습_분할수정_관리자 - 스레드\0413_실습\obj\Debug\_0413_실습.MainForm.resources
+C:\Users\user\Desktop\0413_실습_분할수정_관리자 - 스레드\0413_실습\obj\Debug\_0413_실습.Properties.Resources.resources
+C:\Users\user\Desktop\0413_실습_분할수정_관리자 - 스레드\0413_실습\obj\Debug\0413_실습.csproj.GenerateResource.cache
+C:\Users\user\Desktop\0413_실습_분할수정_관리자 - 스레드\0413_실습\obj\Debug\0413_실습.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\0413_실습_분할수정_관리자 - 스레드\0413_실습\obj\Debug\0413_실습.exe
+C:\Users\user\Desktop\0413_실습_분할수정_관리자 - 스레드\0413_실습\obj\Debug\0413_실습.pdb

@@ -1,0 +1,40 @@
+좌석표 출력
+select *
+from [table]
+
+1)  좌석 선택 입력 (Table, update
+update [table] set state = 1  where tid= {0}	//tid
+
+회원 전화번호(Member, Select)
+select Mid from [member] where PHONE={0}	// phone
+
+입실 최종
+Insert into PCDATA(mid,tid,stime,ETIME) VALUES ({0},{1},GETDATE(),null);//,mid tid
+
+2)퇴실
+
+종료시간 추가
+update PCDATA set ETIME = GETDATE() where tid= {0} //tid
+
+사용시간
+select datediff(minute,stime,etime) as 사용분 from pcdata where tid=1
+
+사용금액
+update  pcdata set price =datediff(minute,stime,etime)/10*500 where price = 0 and mid =1000 
+
+좌석번호2번 퇴실
+update [table]set state = 0 where tid= 2
+
+3) 고객수
+select count(pid) as 고객수from pcdata
+
+
+4)전체 수익
+select sum(price) as 전체수익from pcdata
+
+5)좌석별 수익
+
+select tid, sum(price) from pcdatagroup by tid
+
+
+

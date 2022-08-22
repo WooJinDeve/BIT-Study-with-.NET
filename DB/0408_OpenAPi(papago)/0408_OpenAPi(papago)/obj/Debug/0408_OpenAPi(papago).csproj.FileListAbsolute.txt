@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\정우진\비트고급\DB\실습\0408_OpenAPi(papago)\0408_OpenAPi(papago)\obj\Debug\0408_OpenAPi(papago).csprojAssemblyReference.cache
+C:\Users\User\Desktop\정우진\비트고급\DB\실습\0408_OpenAPi(papago)\0408_OpenAPi(papago)\obj\Debug\0408_OpenAPi(papago).csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\정우진\비트고급\DB\실습\0408_OpenAPi(papago)\0408_OpenAPi(papago)\bin\Debug\0408_OpenAPi(papago).exe.config
+C:\Users\User\Desktop\정우진\비트고급\DB\실습\0408_OpenAPi(papago)\0408_OpenAPi(papago)\bin\Debug\0408_OpenAPi(papago).exe
+C:\Users\User\Desktop\정우진\비트고급\DB\실습\0408_OpenAPi(papago)\0408_OpenAPi(papago)\bin\Debug\0408_OpenAPi(papago).pdb
+C:\Users\User\Desktop\정우진\비트고급\DB\실습\0408_OpenAPi(papago)\0408_OpenAPi(papago)\obj\Debug\0408_OpenAPi(papago).exe
+C:\Users\User\Desktop\정우진\비트고급\DB\실습\0408_OpenAPi(papago)\0408_OpenAPi(papago)\obj\Debug\0408_OpenAPi(papago).pdb
+C:\Users\User\Desktop\정우진\비트고급\DB\실습\0408_OpenAPi(papago)\0408_OpenAPi(papago)\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\정우진\비트고급\DB\실습\0408_OpenAPi(papago)\0408_OpenAPi(papago)\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\정우진\비트고급\DB\실습\0408_OpenAPi(papago)\0408_OpenAPi(papago)\obj\Debug\0408_OpenAPi(papago).csproj.CopyComplete

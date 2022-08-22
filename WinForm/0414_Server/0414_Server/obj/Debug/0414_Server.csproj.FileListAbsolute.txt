@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\0414_Server\0414_Server\obj\Debug\0414_Server.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\0414_Server\0414_Server\bin\Debug\0414_Server.exe.config
+C:\Users\user\source\repos\0414_Server\0414_Server\bin\Debug\0414_Server.exe
+C:\Users\user\source\repos\0414_Server\0414_Server\bin\Debug\0414_Server.pdb
+C:\Users\user\source\repos\0414_Server\0414_Server\obj\Debug\0414_Server.exe
+C:\Users\user\source\repos\0414_Server\0414_Server\obj\Debug\0414_Server.pdb
+C:\Users\user\source\repos\0414_Server\0414_Server\obj\Debug\0414_Server.csproj.AssemblyReference.cache

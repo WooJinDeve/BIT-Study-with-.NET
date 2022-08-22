@@ -1,0 +1,9 @@
+C:\Users\ccm\Desktop\0408_파파고\0408_파파고\bin\Debug\0408_파파고.exe.config
+C:\Users\ccm\Desktop\0408_파파고\0408_파파고\bin\Debug\0408_파파고.exe
+C:\Users\ccm\Desktop\0408_파파고\0408_파파고\bin\Debug\0408_파파고.pdb
+C:\Users\ccm\Desktop\0408_파파고\0408_파파고\obj\Debug\0408_파파고.csproj.CoreCompileInputs.cache
+C:\Users\ccm\Desktop\0408_파파고\0408_파파고\obj\Debug\0408_파파고.exe
+C:\Users\ccm\Desktop\0408_파파고\0408_파파고\obj\Debug\0408_파파고.pdb
+C:\Users\ccm\Desktop\0408_파파고\0408_파파고\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ccm\Desktop\0408_파파고\0408_파파고\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ccm\Desktop\0408_파파고\0408_파파고\obj\Debug\0408_파파고.csproj.CopyComplete

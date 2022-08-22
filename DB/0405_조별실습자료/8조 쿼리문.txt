@@ -1,0 +1,67 @@
+//테이블
+CREATE TABLE [dbo].[Table] (
+    [TID]   INT IDENTITY (1, 1) NOT NULL,
+    [STATE] INT DEFAULT 0 NOT NULL,
+    CONSTRAINT [PK_Table] PRIMARY KEY CLUSTERED ([TID] ASC)
+);
+
+
+//멤버
+CREATE TABLE [dbo].[Member] (
+    [MID]   INT          IDENTITY (1000, 10) NOT NULL,
+    [NAME]  VARCHAR (20) NOT NULL,
+    [PHONE] VARCHAR (20) NOT NULL,
+    CONSTRAINT [PK_Member] PRIMARY KEY CLUSTERED ([MID] ASC)
+);
+
+//pc데이터
+CREATE TABLE [dbo].[PCData] (
+    [PID]   INT      IDENTITY (1, 1) NOT NULL,
+    [MID]   INT      NOT NULL,
+    [TID]   INT      NOT NULL,
+    [STIME] DATETIME NOT NULL,
+    [ETIME] DATETIME NULL,
+    [PRICE] INT      DEFAULT ((0)) NULL,
+    CONSTRAINT [PK_PCData] PRIMARY KEY CLUSTERED ([PID] ASC),
+    CONSTRAINT [FK_PCDate_Member] FOREIGN KEY ([MID]) REFERENCES [dbo].[Member] ([MID]),
+    CONSTRAINT [FK_PCDate_Table] FOREIGN KEY ([TID]) REFERENCES [dbo].[Table] ([TID])
+);
+
+1) 입실
+//좌석표 출력
+select *
+from [Table];
+
+//좌석 선택 입력
+update [Table] set STATE = 1 
+where TID = TId;
+
+//회원 전화번호
+select MID 
+from Member 
+where PHONE = Phone;
+
+//입실 입력
+insert into PCData(MID,TID,STIME,ETIME)
+values(MID,TID,GETDATE(),null);
+
+//퇴실
+update [Table] set State = 0 where TID = 1;
+
+//종료시 시간당 금액
+update PCData set ETIME = GETDATE() where MID =MID and price = 0; 
+update PCData set PRICE = (DATEDIFF(MINUTE,STIME,ETIME)/10)*500 where mid = MID and price = 0;  // mid
+
+//고객수
+select count(*)
+from PCData;
+
+//전체 수익
+select sum(PRICE) 
+from PCData;
+
+//좌석별 수익
+select sum(PRICE), TID 
+from PCData 
+group by TID 
+Having Sum(price) != 0;

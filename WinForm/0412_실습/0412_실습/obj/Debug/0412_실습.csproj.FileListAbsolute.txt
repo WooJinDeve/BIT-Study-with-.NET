@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\0412_실습\0412_실습\bin\Debug\0412_실습.exe.config
+C:\Users\user\Desktop\0412_실습\0412_실습\bin\Debug\0412_실습.exe
+C:\Users\user\Desktop\0412_실습\0412_실습\bin\Debug\0412_실습.pdb
+C:\Users\user\Desktop\0412_실습\0412_실습\obj\Debug\_0412_실습.Form1.resources
+C:\Users\user\Desktop\0412_실습\0412_실습\obj\Debug\_0412_실습.Properties.Resources.resources
+C:\Users\user\Desktop\0412_실습\0412_실습\obj\Debug\0412_실습.csproj.GenerateResource.cache
+C:\Users\user\Desktop\0412_실습\0412_실습\obj\Debug\0412_실습.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\0412_실습\0412_실습\obj\Debug\0412_실습.exe
+C:\Users\user\Desktop\0412_실습\0412_실습\obj\Debug\0412_실습.pdb
+C:\Users\user\Desktop\0412_실습\0412_실습\obj\Debug\0412_실습.csproj.AssemblyReference.cache

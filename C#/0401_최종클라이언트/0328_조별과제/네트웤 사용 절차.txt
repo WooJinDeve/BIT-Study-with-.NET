@@ -1,0 +1,32 @@
+﻿[네트웤을 사용하는 클래스]
+
+1) 기본 필드 구성
+#region 네트웤 사용 필드
+private const string SERVER_IP = "127.0.0.1";
+private const int SERVER_PORT = 7000;
+
+private WBClient client = new WBClient();
+#endregion 
+
+2) CALL BACK 함수 
+#region 네트웤 콜백 메서드
+private void LogMessage(LogFlag flag, string msg)
+{
+    Console.WriteLine("[{0}] : {1} ({2})",flag, msg, DateTime.Now.ToString());
+}
+
+private void RecvMessage(string msg)
+{
+    Console.WriteLine("수신 : " + msg);
+}
+#endregion
+
+3) 네트웤 시작(서버 접속 및 수신 thread 동작)
+   true : 서버접속 성공, false : 실패
+if (client.Start(SERVER_IP, SERVER_PORT, LogMessage, RecvMessage) == false)
+                return;
+4) 데이터 전송
+string msg = "";
+client.SendData(msg);
+
+      

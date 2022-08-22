@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\0425_papago(client)\0425_papago(client)\bin\Debug\0425_papago(client).exe.config
+C:\Users\user\Desktop\0425_papago(client)\0425_papago(client)\bin\Debug\0425_papago(client).exe
+C:\Users\user\Desktop\0425_papago(client)\0425_papago(client)\bin\Debug\0425_papago(client).pdb
+C:\Users\user\Desktop\0425_papago(client)\0425_papago(client)\obj\Debug\0425_papago(client).csproj.AssemblyReference.cache
+C:\Users\user\Desktop\0425_papago(client)\0425_papago(client)\obj\Debug\_0425_papago_client_.Form1.resources
+C:\Users\user\Desktop\0425_papago(client)\0425_papago(client)\obj\Debug\_0425_papago_client_.Properties.Resources.resources
+C:\Users\user\Desktop\0425_papago(client)\0425_papago(client)\obj\Debug\0425_papago(client).csproj.GenerateResource.cache
+C:\Users\user\Desktop\0425_papago(client)\0425_papago(client)\obj\Debug\0425_papago(client).csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\0425_papago(client)\0425_papago(client)\obj\Debug\0425_papago(client).exe
+C:\Users\user\Desktop\0425_papago(client)\0425_papago(client)\obj\Debug\0425_papago(client).pdb

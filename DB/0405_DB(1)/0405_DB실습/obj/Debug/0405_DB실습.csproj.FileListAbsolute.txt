@@ -1,0 +1,30 @@
+C:\Users\user\Desktop\0405_DB실습\0405_DB실습\bin\Debug\0405_DB실습.exe.config
+C:\Users\user\Desktop\0405_DB실습\0405_DB실습\bin\Debug\0405_DB실습.exe
+C:\Users\user\Desktop\0405_DB실습\0405_DB실습\bin\Debug\0405_DB실습.pdb
+C:\Users\user\Desktop\0405_DB실습\0405_DB실습\obj\Debug\0405_DB실습.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\0405_DB실습\0405_DB실습\obj\Debug\0405_DB실습.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\0405_DB실습\0405_DB실습\obj\Debug\0405_DB실습.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\0405_DB실습\0405_DB실습\obj\Debug\0405_DB실습.exe
+C:\Users\user\Desktop\0405_DB실습\0405_DB실습\obj\Debug\0405_DB실습.pdb
+C:\Users\user\Desktop\day23\0405_조별실습자료\0405_DB실습\0405_DB실습\obj\Debug\0405_DB실습.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\day23\0405_조별실습자료\0405_DB실습\0405_DB실습\obj\Debug\0405_DB실습.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\day23\0405_조별실습자료\0405_DB실습\0405_DB실습\obj\Debug\0405_DB실습.exe
+C:\Users\user\Desktop\day23\0405_조별실습자료\0405_DB실습\0405_DB실습\obj\Debug\0405_DB실습.pdb
+C:\Users\user\Desktop\day23\0405_조별실습자료\0405_DB실습\0405_DB실습\bin\Debug\0405_DB실습.exe.config
+C:\Users\user\Desktop\day23\0405_조별실습자료\0405_DB실습\0405_DB실습\bin\Debug\0405_DB실습.exe
+C:\Users\user\Desktop\day23\0405_조별실습자료\0405_DB실습\0405_DB실습\bin\Debug\0405_DB실습.pdb
+C:\Users\user\Desktop\0405_조별실습자료 (2)\0405_DB실습\0405_DB실습\bin\Debug\0405_DB실습.exe.config
+C:\Users\user\Desktop\0405_조별실습자료 (2)\0405_DB실습\0405_DB실습\bin\Debug\0405_DB실습.exe
+C:\Users\user\Desktop\0405_조별실습자료 (2)\0405_DB실습\0405_DB실습\bin\Debug\0405_DB실습.pdb
+C:\Users\user\Desktop\0405_조별실습자료 (2)\0405_DB실습\0405_DB실습\obj\Debug\0405_DB실습.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\0405_조별실습자료 (2)\0405_DB실습\0405_DB실습\obj\Debug\0405_DB실습.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\0405_조별실습자료 (2)\0405_DB실습\0405_DB실습\obj\Debug\0405_DB실습.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\0405_조별실습자료 (2)\0405_DB실습\0405_DB실습\obj\Debug\0405_DB실습.exe
+C:\Users\user\Desktop\0405_조별실습자료 (2)\0405_DB실습\0405_DB실습\obj\Debug\0405_DB실습.pdb
+C:\Users\user\Desktop\0405_DB실습(프로시저활용)\0405_DB실습\bin\Debug\0405_DB실습.exe.config
+C:\Users\user\Desktop\0405_DB실습(프로시저활용)\0405_DB실습\bin\Debug\0405_DB실습.exe
+C:\Users\user\Desktop\0405_DB실습(프로시저활용)\0405_DB실습\bin\Debug\0405_DB실습.pdb
+C:\Users\user\Desktop\0405_DB실습(프로시저활용)\0405_DB실습\obj\Debug\0405_DB실습.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\0405_DB실습(프로시저활용)\0405_DB실습\obj\Debug\0405_DB실습.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\0405_DB실습(프로시저활용)\0405_DB실습\obj\Debug\0405_DB실습.exe
+C:\Users\user\Desktop\0405_DB실습(프로시저활용)\0405_DB실습\obj\Debug\0405_DB실습.pdb

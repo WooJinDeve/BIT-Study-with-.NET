@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0427_Service(CLient)\0427_Service(CLient)\bin\Debug\0427_Service(CLient).exe.config
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0427_Service(CLient)\0427_Service(CLient)\bin\Debug\0427_Service(CLient).exe
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0427_Service(CLient)\0427_Service(CLient)\bin\Debug\0427_Service(CLient).pdb
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0427_Service(CLient)\0427_Service(CLient)\obj\Debug\0427_Service(CLient).csproj.AssemblyReference.cache
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0427_Service(CLient)\0427_Service(CLient)\obj\Debug\0427_Service(CLient).csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0427_Service(CLient)\0427_Service(CLient)\obj\Debug\_0427_Service_CLient_.Form1.resources
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0427_Service(CLient)\0427_Service(CLient)\obj\Debug\_0427_Service_CLient_.Properties.Resources.resources
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0427_Service(CLient)\0427_Service(CLient)\obj\Debug\0427_Service(CLient).csproj.GenerateResource.cache
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0427_Service(CLient)\0427_Service(CLient)\obj\Debug\0427_Service(CLient).csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0427_Service(CLient)\0427_Service(CLient)\obj\Debug\0427_Service(CLient).exe
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0427_Service(CLient)\0427_Service(CLient)\obj\Debug\0427_Service(CLient).pdb

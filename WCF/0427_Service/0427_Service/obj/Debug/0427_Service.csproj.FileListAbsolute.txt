@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0427_Service\0427_Service\bin\0427_Service.dll.config
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0427_Service\0427_Service\bin\0427_Service.dll
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0427_Service\0427_Service\bin\0427_Service.pdb
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0427_Service\0427_Service\obj\Debug\0427_Service.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0427_Service\0427_Service\obj\Debug\0427_Service.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0427_Service\0427_Service\obj\Debug\0427_Service.dll
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0427_Service\0427_Service\obj\Debug\0427_Service.pdb

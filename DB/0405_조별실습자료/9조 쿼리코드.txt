@@ -1,0 +1,71 @@
+1. 쿼리문
+
+CREATE TABLE [dbo].[Member] (
+    [MID]   INT  IDENTITY (1000, 10) NOT NULL,
+    [NAME]  VARCHAR (20) NOT NULL,
+    [PHONE] VARCHAR (20) NOT NULL,
+    CONSTRAINT [PK_Member] PRIMARY KEY CLUSTERED ([MID] ASC)
+);
+
+CREATE TABLE [dbo].[Table] (
+    [TID]   INT IDENTITY (1, 1) NOT NULL ,
+    [State] INT NOT NULL DEFAULT 0,
+    CONSTRAINT [PK_Table_1] PRIMARY KEY CLUSTERED ([TID] ASC)
+);
+
+CREATE TABLE [dbo].[PCData] (
+    [PID]   INT      IDENTITY (1, 1) NOT NULL,
+    [MID]   INT      NOT NULL,
+    [TID]   INT      NOT NULL,
+    [STIME] DATETIME NOT NULL,
+    [ETIME] DATETIME NULL,
+    [PRICE] INT NULL DEFAULT 0,
+    CONSTRAINT [PK_PCDATA] PRIMARY KEY CLUSTERED ([PID] ASC),
+    CONSTRAINT [FK_PCDATA_Member] FOREIGN KEY ([MID]) REFERENCES [dbo].[Member] ([MID]),
+    CONSTRAINT [FK_PCDATA_Table] FOREIGN KEY ([TID]) REFERENCES [dbo].[Table] ([TID])
+);
+
+2. 
+
+좌석표 출력
+select *
+from Table;
+
+좌석선택입력
+update Table
+set State = 1,
+where TID = ??;
+
+회원 전화 번호 입력
+select MID,PHONE
+from Member;
+Where PHONE='???';
+
+시작하기
+insert into PCData 
+values(MID, TID, GETDATE(),NULL);
+
+끝내고 나가기
+update PCData
+set TID= 0 ,ETIME=GETDATE(),price=?????
+where PID = ??;
+
+고객수
+select count(PID)
+from PCData;
+
+전체수익
+select SUM(price)
+from PCData;
+
+좌석별 수익
+select TID,PRICE
+from PCDATA
+where TID = ??
+
+
+
+
+
+
+

@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="_0425_WCF_1_.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="_0425_WCF_1__localhost_ShowHelloService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost/wb35/Sample1.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

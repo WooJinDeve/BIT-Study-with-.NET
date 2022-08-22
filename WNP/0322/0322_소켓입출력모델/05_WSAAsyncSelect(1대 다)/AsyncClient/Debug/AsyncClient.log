@@ -1,0 +1,4 @@
+﻿cl : 명령줄 warning D9035: 'Gm' 옵션은 더 이상 사용되지 않으므로 이후 릴리스에서 제거될 예정입니다.
+  AsyncClient.cpp
+AsyncClient.obj : warning LNK4075: '/EDITANDCONTINUE'이(가) '/SAFESEH' 사양으로 인해 무시됩니다.
+  AsyncClient.vcxproj -> C:\Users\ccm\Desktop\수업진행\0322_소켓입출력모델\04_WSAAsyncSelect\AsyncClient\Debug\AsyncClient.exe

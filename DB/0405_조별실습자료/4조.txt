@@ -1,0 +1,15 @@
+테이블의 전체 정보를 검색(기능1.입실)
+select * from Table;
+
+pc방 입장 pc 선택(Table)
+update table set state = 1 where tid = ???;
+
+회원 번호 빼오기
+select mid from member where phone = ???;
+
+시작 시
+insert into pcdata(mid, tid, stime) values(입력받은 id, 입력받은 테이블, convert(time, getdate()))
+
+종료 시
+update pcdata set etime = convert(time, getdate()), price = datediff(mi, stime, getdate()) / 6 * 500 where mid = ???;
+update table set state = 1 where tid = ??? ;

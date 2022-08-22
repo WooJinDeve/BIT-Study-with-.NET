@@ -1,0 +1,227 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "winres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// 한국어(대한민국) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_KOR)
+LANGUAGE LANG_KOREAN, SUBLANG_DEFAULT
+#pragma code_page(949)
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""winres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDI_ICON1               ICON                    "icon1.ico"
+
+IDI_ICON2               ICON                    "C:\\Users\\User\\Desktop\\정우진\\비트고급\\API Programming\\프로그램 실습\\아이콘 파일\\ICON1.ICO"
+
+IDI_ICON3               ICON                    "C:\\Users\\User\\Desktop\\정우진\\비트고급\\API Programming\\프로그램 실습\\아이콘 파일\\ICON2.ICO"
+
+IDI_ICON4               ICON                    "C:\\Users\\User\\Desktop\\정우진\\비트고급\\API Programming\\프로그램 실습\\아이콘 파일\\ICON3.ICO"
+
+IDI_ICON5               ICON                    "C:\\Users\\User\\Desktop\\정우진\\비트고급\\API Programming\\프로그램 실습\\아이콘 파일\\ICON4.ICO"
+
+IDI_ICON6               ICON                    "C:\\Users\\User\\Desktop\\정우진\\비트고급\\API Programming\\프로그램 실습\\아이콘 파일\\ICON5.ICO"
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Menu
+//
+
+IDR_MENU1 MENU
+BEGIN
+    POPUP "파일(&F)"
+    BEGIN
+        MENUITEM "프로그램종료(&X)",                  ID_40001
+    END
+    POPUP "색상(&C)"
+    BEGIN
+        MENUITEM "빨강(&R)",                      ID_40002
+        MENUITEM "녹색(&G)",                      ID_40003
+        MENUITEM "파랑(&B)",                      ID_40004
+        MENUITEM SEPARATOR
+        MENUITEM "검정(&A)",                      ID_40005
+    END
+END
+
+IDR_MENU2 MENU
+BEGIN
+    POPUP "dummy"
+    BEGIN
+        MENUITEM "프로그램종료",                      ID_40001
+        MENUITEM SEPARATOR
+        POPUP "색상"
+        BEGIN
+            MENUITEM "빨강",                          ID_40002
+            MENUITEM "파랑",                          ID_40003
+        END
+    END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_DIALOG1 DIALOGEX 0, 0, 203, 98
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Dialog"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    EDITTEXT        IDC_EDIT1,50,21,132,14,ES_AUTOHSCROLL
+    LTEXT           "나이",IDC_STATIC,19,52,16,8
+    LTEXT           "이름",IDC_STATIC,19,24,19,8
+    EDITTEXT        IDC_EDIT2,50,49,132,14,ES_AUTOHSCROLL
+    DEFPUSHBUTTON   "확인",IDOK,45,77,50,14
+    PUSHBUTTON      "취소",IDCANCEL,120,77,50,14
+END
+
+IDD_DIALOG2 DIALOGEX 0, 0, 241, 131
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "모달다이어로그"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    DEFPUSHBUTTON   "확인",IDOK,39,110,50,14
+    PUSHBUTTON      "취소",IDCANCEL,146,110,50,14
+    LTEXT           "X좌표",IDC_STATIC,35,33,20,8
+    LTEXT           "Y좌표",IDC_STATIC,35,59,20,8
+    LTEXT           "크기",IDC_STATIC,35,87,16,8
+    EDITTEXT        IDC_EDIT1,65,30,122,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT2,65,56,122,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT3,65,83,122,14,ES_AUTOHSCROLL
+    LTEXT           "도형정보입력",IDC_STATIC,7,7,45,8
+END
+
+IDD_DIALOG3 DIALOGEX 0, 0, 309, 104
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "모달리스"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    DEFPUSHBUTTON   "적용",IDOK,179,85,50,14
+    PUSHBUTTON      "취소",IDCANCEL,245,85,50,14
+    GROUPBOX        "색상설정",IDC_STATIC,7,7,295,77
+    LTEXT           "RED",IDC_STATIC,26,23,14,8
+    LTEXT           "GREEN",IDC_STATIC,26,41,23,8
+    LTEXT           "BLUE",IDC_STATIC,26,59,17,8
+    SCROLLBAR       IDC_SCROLLBAR1,65,20,187,11
+    SCROLLBAR       IDC_SCROLLBAR2,65,38,189,11
+    SCROLLBAR       IDC_SCROLLBAR3,65,59,189,11
+    EDITTEXT        IDC_EDIT1,254,21,40,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT4,254,40,40,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT5,254,59,40,14,ES_AUTOHSCROLL
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO
+BEGIN
+    IDD_DIALOG1, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 196
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 91
+    END
+
+    IDD_DIALOG2, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 234
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 124
+    END
+
+    IDD_DIALOG3, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 302
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 99
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// AFX_DIALOG_LAYOUT
+//
+
+IDD_DIALOG1 AFX_DIALOG_LAYOUT
+BEGIN
+    0
+END
+
+IDD_DIALOG2 AFX_DIALOG_LAYOUT
+BEGIN
+    0
+END
+
+IDD_DIALOG3 AFX_DIALOG_LAYOUT
+BEGIN
+    0
+END
+
+#endif    // 한국어(대한민국) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

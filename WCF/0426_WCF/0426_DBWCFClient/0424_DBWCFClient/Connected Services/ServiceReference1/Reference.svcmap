@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="e172a488-8ab2-4812-8c2b-d95c5c6332ff" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost/wcf/example/MemberService" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="MemberService.xsd" MetadataType="Schema" ID="aee9b5ca-bb52-4e48-badc-26dd7d910662" SourceId="1" SourceUrl="http://localhost/wcf/example/MemberService?xsd=xsd1" />
+    <MetadataFile FileName="MemberService.disco" MetadataType="Disco" ID="2e56be36-31d9-4b7a-8350-ab884d6a9a17" SourceId="1" SourceUrl="http://localhost/wcf/example/MemberService?disco" />
+    <MetadataFile FileName="MemberService1.xsd" MetadataType="Schema" ID="aba2f3cf-f2c6-4fa5-9021-ee3780d06800" SourceId="1" SourceUrl="http://localhost/wcf/example/MemberService?xsd=xsd2" />
+    <MetadataFile FileName="MemberService.wsdl" MetadataType="Wsdl" ID="443185c4-4478-4827-91c0-01266097b9e3" SourceId="1" SourceUrl="http://localhost/wcf/example/MemberService?wsdl" />
+    <MetadataFile FileName="MemberService2.xsd" MetadataType="Schema" ID="46b513f3-1bf3-495f-9e45-f3bb8a2654bf" SourceId="1" SourceUrl="http://localhost/wcf/example/MemberService?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

@@ -1,0 +1,12 @@
+D:\TEST\IPC_RemoteObject\bin\Debug\IPC_RemoteObject.dll
+D:\TEST\IPC_RemoteObject\bin\Debug\IPC_RemoteObject.pdb
+D:\TEST\IPC_RemoteObject\obj\Debug\IPC_RemoteObject.csprojAssemblyReference.cache
+D:\TEST\IPC_RemoteObject\obj\Debug\IPC_RemoteObject.csproj.CoreCompileInputs.cache
+D:\TEST\IPC_RemoteObject\obj\Debug\IPC_RemoteObject.dll
+D:\TEST\IPC_RemoteObject\obj\Debug\IPC_RemoteObject.pdb
+C:\Users\user\Desktop\0420_IPC\IPC_RemoteObject\bin\Debug\IPC_RemoteObject.dll
+C:\Users\user\Desktop\0420_IPC\IPC_RemoteObject\bin\Debug\IPC_RemoteObject.pdb
+C:\Users\user\Desktop\0420_IPC\IPC_RemoteObject\obj\Debug\IPC_RemoteObject.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\0420_IPC\IPC_RemoteObject\obj\Debug\IPC_RemoteObject.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\0420_IPC\IPC_RemoteObject\obj\Debug\IPC_RemoteObject.dll
+C:\Users\user\Desktop\0420_IPC\IPC_RemoteObject\obj\Debug\IPC_RemoteObject.pdb

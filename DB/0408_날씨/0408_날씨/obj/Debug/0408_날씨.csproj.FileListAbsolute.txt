@@ -1,0 +1,7 @@
+C:\Users\ccm\Desktop\0408_날씨\0408_날씨\bin\Debug\0408_날씨.exe.config
+C:\Users\ccm\Desktop\0408_날씨\0408_날씨\bin\Debug\0408_날씨.exe
+C:\Users\ccm\Desktop\0408_날씨\0408_날씨\bin\Debug\0408_날씨.pdb
+C:\Users\ccm\Desktop\0408_날씨\0408_날씨\obj\Debug\0408_날씨.csproj.CoreCompileInputs.cache
+C:\Users\ccm\Desktop\0408_날씨\0408_날씨\obj\Debug\0408_날씨.exe
+C:\Users\ccm\Desktop\0408_날씨\0408_날씨\obj\Debug\0408_날씨.pdb
+C:\Users\ccm\Desktop\0408_날씨\0408_날씨\obj\Debug\0408_날씨.csprojAssemblyReference.cache

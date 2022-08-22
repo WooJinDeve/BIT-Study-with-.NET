@@ -1,0 +1,5 @@
+﻿  예제.cpp
+C:\Users\User\Desktop\0314_PIPE_CS\0314_Server\0314_Server\예제.cpp(63,14): warning C4477: '_cwscanf_s' : 서식 문자열 '%s'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'unsigned __int64'입니다.
+C:\Users\User\Desktop\0314_PIPE_CS\0314_Server\0314_Server\예제.cpp(63,14): message : 이 인수는 버퍼 크기로 사용됩니다.
+C:\Users\User\Desktop\0314_PIPE_CS\0314_Server\0314_Server\예제.cpp(71,3): warning C4267: '인수': 'size_t'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  0314_Server.vcxproj -> C:\Users\User\Desktop\0314_PIPE_CS\0314_Server\x64\Debug\0314_Server.exe

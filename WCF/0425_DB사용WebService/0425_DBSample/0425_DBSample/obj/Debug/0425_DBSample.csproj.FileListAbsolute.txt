@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\0425_DBSample\0425_DBSample\bin\Debug\0425_DBSample.exe.config
+C:\Users\user\Desktop\0425_DBSample\0425_DBSample\bin\Debug\0425_DBSample.exe
+C:\Users\user\Desktop\0425_DBSample\0425_DBSample\bin\Debug\0425_DBSample.pdb
+C:\Users\user\Desktop\0425_DBSample\0425_DBSample\obj\Debug\0425_DBSample.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\0425_DBSample\0425_DBSample\obj\Debug\0425_DBSample.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\0425_DBSample\0425_DBSample\obj\Debug\0425_DBSample.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\0425_DBSample\0425_DBSample\obj\Debug\0425_DBSample.exe
+C:\Users\user\Desktop\0425_DBSample\0425_DBSample\obj\Debug\0425_DBSample.pdb

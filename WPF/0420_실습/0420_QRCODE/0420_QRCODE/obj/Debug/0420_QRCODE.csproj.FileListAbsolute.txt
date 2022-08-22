@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\0420_QRCODE\0420_QRCODE\bin\Debug\0420_QRCODE.exe.config
+C:\Users\user\Desktop\0420_QRCODE\0420_QRCODE\bin\Debug\0420_QRCODE.exe
+C:\Users\user\Desktop\0420_QRCODE\0420_QRCODE\bin\Debug\0420_QRCODE.pdb
+C:\Users\user\Desktop\0420_QRCODE\0420_QRCODE\bin\Debug\zxing.dll
+C:\Users\user\Desktop\0420_QRCODE\0420_QRCODE\bin\Debug\zxing.presentation.dll
+C:\Users\user\Desktop\0420_QRCODE\0420_QRCODE\bin\Debug\zxing.xml
+C:\Users\user\Desktop\0420_QRCODE\0420_QRCODE\bin\Debug\zxing.presentation.xml
+C:\Users\user\Desktop\0420_QRCODE\0420_QRCODE\obj\Debug\0420_QRCODE.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\0420_QRCODE\0420_QRCODE\obj\Debug\_0420_QRCODE.Form1.resources
+C:\Users\user\Desktop\0420_QRCODE\0420_QRCODE\obj\Debug\_0420_QRCODE.Properties.Resources.resources
+C:\Users\user\Desktop\0420_QRCODE\0420_QRCODE\obj\Debug\0420_QRCODE.csproj.GenerateResource.cache
+C:\Users\user\Desktop\0420_QRCODE\0420_QRCODE\obj\Debug\0420_QRCODE.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\0420_QRCODE\0420_QRCODE\obj\Debug\0420_QRCODE.csproj.CopyComplete
+C:\Users\user\Desktop\0420_QRCODE\0420_QRCODE\obj\Debug\0420_QRCODE.exe
+C:\Users\user\Desktop\0420_QRCODE\0420_QRCODE\obj\Debug\0420_QRCODE.pdb

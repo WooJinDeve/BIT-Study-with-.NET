@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\0329_selection\0329_selection\bin\Debug\0329_selection.exe.config
+C:\Users\user\Desktop\0329_selection\0329_selection\bin\Debug\0329_selection.exe
+C:\Users\user\Desktop\0329_selection\0329_selection\bin\Debug\0329_selection.pdb
+C:\Users\user\Desktop\0329_selection\0329_selection\obj\Debug\0329_selection.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\0329_selection\0329_selection\obj\Debug\0329_selection.exe
+C:\Users\user\Desktop\0329_selection\0329_selection\obj\Debug\0329_selection.pdb
+C:\Users\user\Desktop\0329_selection\0329_selection\obj\Debug\0329_selection.csproj.AssemblyReference.cache

@@ -1,0 +1,48 @@
+C:\Users\user\Desktop\0418_과제\0418_과제\obj\Debug\0418_과제.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\0418_과제\0418_과제\obj\Debug\0418_과제.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\0418_과제\0418_과제\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\0418_과제\0418_과제\obj\Debug\App.g.cs
+C:\Users\user\Desktop\0418_과제\0418_과제\obj\Debug\0418_과제_MarkupCompile.cache
+C:\Users\user\Desktop\0418_과제\0418_과제\obj\Debug\0418_과제_MarkupCompile.lref
+C:\Users\user\Desktop\0418_과제\0418_과제\bin\Debug\0418_과제.exe.config
+C:\Users\user\Desktop\0418_과제\0418_과제\bin\Debug\0418_과제.exe
+C:\Users\user\Desktop\0418_과제\0418_과제\bin\Debug\0418_과제.pdb
+C:\Users\user\Desktop\0418_과제\0418_과제\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\0418_과제\0418_과제\obj\Debug\0418_과제.g.resources
+C:\Users\user\Desktop\0418_과제\0418_과제\obj\Debug\_0418_과제.Properties.Resources.resources
+C:\Users\user\Desktop\0418_과제\0418_과제\obj\Debug\0418_과제.csproj.GenerateResource.cache
+C:\Users\user\Desktop\0418_과제\0418_과제\obj\Debug\0418_과제.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\0418_과제\0418_과제\obj\Debug\0418_과제.exe
+C:\Users\user\Desktop\0418_과제\0418_과제\obj\Debug\0418_과제.pdb
+C:\Users\user\Desktop\0418_과제 _수정\0418_과제\bin\Debug\0418_과제.exe.config
+C:\Users\user\Desktop\0418_과제 _수정\0418_과제\bin\Debug\0418_과제.exe
+C:\Users\user\Desktop\0418_과제 _수정\0418_과제\bin\Debug\0418_과제.pdb
+C:\Users\user\Desktop\0418_과제 _수정\0418_과제\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\0418_과제 _수정\0418_과제\obj\Debug\App.g.cs
+C:\Users\user\Desktop\0418_과제 _수정\0418_과제\obj\Debug\0418_과제_MarkupCompile.cache
+C:\Users\user\Desktop\0418_과제 _수정\0418_과제\obj\Debug\0418_과제_MarkupCompile.lref
+C:\Users\user\Desktop\0418_과제 _수정\0418_과제\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\0418_과제 _수정\0418_과제\obj\Debug\0418_과제.g.resources
+C:\Users\user\Desktop\0418_과제 _수정\0418_과제\obj\Debug\_0418_과제.Properties.Resources.resources
+C:\Users\user\Desktop\0418_과제 _수정\0418_과제\obj\Debug\0418_과제.csproj.GenerateResource.cache
+C:\Users\user\Desktop\0418_과제 _수정\0418_과제\obj\Debug\0418_과제.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\0418_과제 _수정\0418_과제\obj\Debug\0418_과제.exe
+C:\Users\user\Desktop\0418_과제 _수정\0418_과제\obj\Debug\0418_과제.pdb
+C:\Users\user\Desktop\0418_과제 _수정\0418_과제\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Desktop\0418_과제 _수정\0418_과제\obj\Debug\0418_과제.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\0420_과제 _수정\0418_과제\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\0420_과제 _수정\0418_과제\obj\Debug\App.g.cs
+C:\Users\User\Desktop\0420_과제 _수정\0418_과제\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Desktop\0420_과제 _수정\0418_과제\obj\Debug\0418_과제_MarkupCompile.cache
+C:\Users\User\Desktop\0420_과제 _수정\0418_과제\obj\Debug\0418_과제_MarkupCompile.lref
+C:\Users\User\Desktop\0420_과제 _수정\0418_과제\obj\Debug\0418_과제.exe
+C:\Users\User\Desktop\0420_과제 _수정\0418_과제\obj\Debug\0418_과제.pdb
+C:\Users\User\Desktop\0420_과제 _수정\0418_과제\bin\Debug\0418_과제.exe.config
+C:\Users\User\Desktop\0420_과제 _수정\0418_과제\bin\Debug\0418_과제.exe
+C:\Users\User\Desktop\0420_과제 _수정\0418_과제\bin\Debug\0418_과제.pdb
+C:\Users\User\Desktop\0420_과제 _수정\0418_과제\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\0420_과제 _수정\0418_과제\obj\Debug\0418_과제.g.resources
+C:\Users\User\Desktop\0420_과제 _수정\0418_과제\obj\Debug\_0418_과제.Properties.Resources.resources
+C:\Users\User\Desktop\0420_과제 _수정\0418_과제\obj\Debug\0418_과제.csproj.GenerateResource.cache
+C:\Users\User\Desktop\0420_과제 _수정\0418_과제\obj\Debug\0418_과제.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\0420_과제 _수정\0418_과제\obj\Debug\0418_과제.csprojAssemblyReference.cache

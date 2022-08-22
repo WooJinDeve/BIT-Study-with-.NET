@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\0420_Excel\0420_Excel\bin\Debug\0420_Excel.exe.config
+C:\Users\user\Desktop\0420_Excel\0420_Excel\bin\Debug\0420_Excel.exe
+C:\Users\user\Desktop\0420_Excel\0420_Excel\bin\Debug\0420_Excel.pdb
+C:\Users\user\Desktop\0420_Excel\0420_Excel\obj\Debug\0420_Excel.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\0420_Excel\0420_Excel\obj\Debug\0420_Excel.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\0420_Excel\0420_Excel\obj\Debug\0420_Excel.exe
+C:\Users\user\Desktop\0420_Excel\0420_Excel\obj\Debug\0420_Excel.pdb

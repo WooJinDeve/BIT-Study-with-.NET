@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Accountio>
+    <accio>1</accio>
+    <accid>1000</accid>
+    <input>1000</input>
+    <output>0</output>
+    <balance>1000</balance>
+    <newtime>2022-04-07T15:05:56.5361379+09:00</newtime>
+  </Accountio>
+</DocumentElement>

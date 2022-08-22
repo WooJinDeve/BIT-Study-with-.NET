@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\0405_DB\0405_DB\bin\Debug\0405_DB.exe.config
+C:\Users\user\Desktop\0405_DB\0405_DB\bin\Debug\0405_DB.exe
+C:\Users\user\Desktop\0405_DB\0405_DB\bin\Debug\0405_DB.pdb
+C:\Users\user\Desktop\0405_DB\0405_DB\obj\Debug\0405_DB.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\0405_DB\0405_DB\obj\Debug\0405_DB.exe
+C:\Users\user\Desktop\0405_DB\0405_DB\obj\Debug\0405_DB.pdb

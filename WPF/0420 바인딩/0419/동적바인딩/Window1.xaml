@@ -1,0 +1,41 @@
+﻿<Window x:Class="_0419.동적바인딩.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_0419.동적바인딩"
+        mc:Ignorable="d"
+        Title="Window1" Height="600" Width="450">
+    <Window.Resources>
+        <DataTemplate x:Key="schoolTemplate" DataType="{x:Type local:School}">
+            <StackPanel Orientation="Horizontal">
+                <CheckBox Width="20" VerticalAlignment="Center"  
+                                IsChecked="{Binding Path=IsChecked}" />
+                <TextBlock Text = "{Binding Path= SchoolID}"/>
+                <TextBlock Text = "{Binding Path= SchoolName}"/>
+            </StackPanel>
+        </DataTemplate>
+        <DataTemplate x:Key="studentTemplate" DataType="{x:Type local:Student}">
+            <StackPanel Orientation="Horizontal">
+                <CheckBox Width="20" VerticalAlignment="Center"  
+                                IsChecked="{Binding Path=IsChecked}" />
+                <TextBlock Text = "{Binding Path= StudentID}"/>
+                <TextBlock Text = "{Binding Path= StudentName}"/>
+            </StackPanel>
+        </DataTemplate>
+    </Window.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        <Border Margin="5" BorderThickness="1" BorderBrush="Black">
+            <ListBox Name="listBox" Grid.Row="0" />
+        </Border>
+        <StackPanel Grid.Row="1" Orientation="Horizontal">
+            <Button Click="schoolButton_Click" Name="schoolButton" Margin="5" Width="85" Content="School" />
+            <Button Click="studentButton_Click" Name="studentButton" Margin="5" Width="85" Content="Student" />
+            <Button Click="currentItemButton_Click" Name="currentItemButton" Margin="5" Width="85" Content="Current Item" />
+        </StackPanel>
+    </Grid>
+</Window>

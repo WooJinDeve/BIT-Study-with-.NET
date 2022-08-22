@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\0424_DBWCFClient\0424_DBWCFClient\bin\Debug\0424_DBWCFClient.exe.config
+C:\Users\user\source\repos\0424_DBWCFClient\0424_DBWCFClient\bin\Debug\0424_DBWCFClient.exe
+C:\Users\user\source\repos\0424_DBWCFClient\0424_DBWCFClient\bin\Debug\0424_DBWCFClient.pdb
+C:\Users\user\source\repos\0424_DBWCFClient\0424_DBWCFClient\obj\Debug\0424_DBWCFClient.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\0424_DBWCFClient\0424_DBWCFClient\obj\Debug\0424_DBWCFClient.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\0424_DBWCFClient\0424_DBWCFClient\obj\Debug\0424_DBWCFClient.exe
+C:\Users\user\source\repos\0424_DBWCFClient\0424_DBWCFClient\obj\Debug\0424_DBWCFClient.pdb

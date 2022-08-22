@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0428_REST_DB(Client)\0428_REST_DB(Client)\bin\Debug\0428_REST_DB(Client).exe.config
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0428_REST_DB(Client)\0428_REST_DB(Client)\bin\Debug\0428_REST_DB(Client).exe
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0428_REST_DB(Client)\0428_REST_DB(Client)\bin\Debug\0428_REST_DB(Client).pdb
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0428_REST_DB(Client)\0428_REST_DB(Client)\obj\Debug\0428_REST_DB(Client).csproj.AssemblyReference.cache
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0428_REST_DB(Client)\0428_REST_DB(Client)\obj\Debug\0428_REST_DB(Client).csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0428_REST_DB(Client)\0428_REST_DB(Client)\obj\Debug\_0428_REST_DB_Client_.Form1.resources
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0428_REST_DB(Client)\0428_REST_DB(Client)\obj\Debug\_0428_REST_DB_Client_.Properties.Resources.resources
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0428_REST_DB(Client)\0428_REST_DB(Client)\obj\Debug\0428_REST_DB(Client).csproj.GenerateResource.cache
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0428_REST_DB(Client)\0428_REST_DB(Client)\obj\Debug\0428_REST_DB(Client).csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0428_REST_DB(Client)\0428_REST_DB(Client)\obj\Debug\0428_REST_DB(Client).exe
+C:\Users\User\Desktop\정우진\비트고급\WCF\실습\0428_REST_DB(Client)\0428_REST_DB(Client)\obj\Debug\0428_REST_DB(Client).pdb

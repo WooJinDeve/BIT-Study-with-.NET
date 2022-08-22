@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\0426_WCF\0426_WCF\bin\Debug\0426_WCF.exe.config
+C:\Users\user\Desktop\0426_WCF\0426_WCF\bin\Debug\0426_WCF.exe
+C:\Users\user\Desktop\0426_WCF\0426_WCF\bin\Debug\0426_WCF.pdb
+C:\Users\user\Desktop\0426_WCF\0426_WCF\obj\Debug\0426_WCF.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\0426_WCF\0426_WCF\obj\Debug\0426_WCF.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\0426_WCF\0426_WCF\obj\Debug\0426_WCF.exe
+C:\Users\user\Desktop\0426_WCF\0426_WCF\obj\Debug\0426_WCF.pdb

@@ -1,0 +1,3 @@
+﻿  control.cpp
+LINK : fatal error LNK1168: C:\Users\User\Desktop\정우진\비트고급\API Programming\프로그램 실습\0307_실습 - 메뉴부착\Debug\0304_실습.exe을(를) 쓰기용으로 열 수 없습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(1010,5): error MSB6006: "link.exe"이(가) 종료되었습니다(코드: 1168).

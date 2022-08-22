@@ -1,0 +1,142 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "winres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// 한국어(대한민국) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_KOR)
+LANGUAGE LANG_KOREAN, SUBLANG_DEFAULT
+#pragma code_page(949)
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""winres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_CLIENT DIALOGEX 0, 0, 333, 240
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "클라이언트"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    PUSHBUTTON      "서버연결",IDC_BUTTON1,7,18,55,14
+    PUSHBUTTON      "서버연결해제",IDC_BUTTON2,73,18,50,14
+    EDITTEXT        IDC_EDIT1,7,46,319,156,ES_MULTILINE | ES_AUTOHSCROLL | ES_READONLY
+    EDITTEXT        IDC_EDIT5,155,14,63,12,ES_AUTOHSCROLL
+    PUSHBUTTON      "전송",IDC_BUTTON3,265,210,50,14
+    PUSHBUTTON      "로그인",IDC_BUTTON4,221,19,50,14
+    PUSHBUTTON      "회원가입",IDC_BUTTON5,274,19,50,14
+    EDITTEXT        IDC_EDIT3,19,209,232,24,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT4,155,28,63,12,ES_AUTOHSCROLL
+END
+
+IDD_NEWMEMBER DIALOGEX 0, 0, 235, 104
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Dialog"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    EDITTEXT        IDC_ID,58,25,101,15,ES_AUTOHSCROLL
+    EDITTEXT        IDC_PW,57,44,101,15,ES_AUTOHSCROLL
+    PUSHBUTTON      "회원가입",IDC_BUTTON1,165,45,50,14
+    EDITTEXT        IDC_NAME,58,62,99,16,ES_AUTOHSCROLL
+    LTEXT           "ID",IDC_STATIC,33,28,8,8
+    LTEXT           "PW",IDC_STATIC,33,48,12,8
+    LTEXT           "NICKNAME",IDC_STATIC,19,66,36,8
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO
+BEGIN
+    IDD_CLIENT, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 326
+        VERTGUIDE, 62
+        VERTGUIDE, 73
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 233
+    END
+
+    IDD_NEWMEMBER, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 228
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 97
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// AFX_DIALOG_LAYOUT
+//
+
+IDD_CLIENT AFX_DIALOG_LAYOUT
+BEGIN
+    0
+END
+
+IDD_NEWMEMBER AFX_DIALOG_LAYOUT
+BEGIN
+    0
+END
+
+#endif    // 한국어(대한민국) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

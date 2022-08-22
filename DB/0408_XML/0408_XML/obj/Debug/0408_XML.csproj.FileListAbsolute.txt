@@ -1,0 +1,6 @@
+C:\Users\ccm\Desktop\0408_XML\0408_XML\bin\Debug\0408_XML.exe.config
+C:\Users\ccm\Desktop\0408_XML\0408_XML\bin\Debug\0408_XML.exe
+C:\Users\ccm\Desktop\0408_XML\0408_XML\bin\Debug\0408_XML.pdb
+C:\Users\ccm\Desktop\0408_XML\0408_XML\obj\Debug\0408_XML.csproj.CoreCompileInputs.cache
+C:\Users\ccm\Desktop\0408_XML\0408_XML\obj\Debug\0408_XML.exe
+C:\Users\ccm\Desktop\0408_XML\0408_XML\obj\Debug\0408_XML.pdb

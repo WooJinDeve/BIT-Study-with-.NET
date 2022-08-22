@@ -1,0 +1,57 @@
+CREATE TABLE [dbo].[Member] (
+    [MID]   INT  IDENTITY (1000, 10) NOT NULL,
+    [NAME]  VARCHAR (20) NOT NULL,
+    [PHONE] VARCHAR (20) NOT NULL,
+    CONSTRAINT [PK_Member] PRIMARY KEY CLUSTERED ([MID] ASC)
+);
+
+CREATE TABLE [dbo].[Table] (
+    [TID]   INT IDENTITY (1, 1) NOT NULL,
+    [STATE] INT DEFAULT ((0)) NULL,
+    PRIMARY KEY CLUSTERED ([TID] ASC)
+);
+
+CREATE TABLE [dbo].[PCData] (
+    [PID]   INT      IDENTITY (1, 1) NOT NULL,
+    [MID]   INT      NOT NULL,
+    [TID]   INT      NOT NULL,
+    [STIME] DATETIME NOT NULL,
+    [ETIME] DATETIME NULL,
+    [PRICE] INT NULL DEFAULT 0
+);
+
+좌석테이블 출력
+select * from [table]
+
+좌석 선택 
+update [Table] set State = 1 where TID = {0};
+
+회원 전화번호
+select Mid from [member] where PHONE={0};
+
+입실 최종
+insert into PCData(mid,tid,stime,etime) values({0},{1},getdate(),null);
+
+퇴실
+update [Table] set State = 0 where TID = 1;
+
+종료 시간
+update PCDATA set ETIME = GETDATE() where tid= {0}
+
+사용 시간
+select datediff(minute,stime,etime) as from pcdata where tid=1
+
+사용 금액
+update  pcdata set price =datediff(minute,stime,etime)/10*500 where price = 0 and mid =1000 
+
+좌석 번호
+update [table]set state = 0 where tid= 
+
+고객 수
+select count(PID)from PCData;
+
+전체 수익
+select SUM(price) from PCData;
+
+좌석 수익
+select TID,PRICE from PCDATA where TID ;

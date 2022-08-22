@@ -1,0 +1,14 @@
+-- 좌석표 출력 (table, select)
+select * from [Table];
+
+-- 좌석 선택 입력 (Table, update)
+update [Table] set State = 1 where TID = 1;
+
+-- 회원 전화번호 (member, select)
+select MID from Member where PHONE = 1111;
+
+-- 퇴실 
+update [Table] set State = 0 where TID = 1;
+
+-- 고객수
+select count(*) from PCData;

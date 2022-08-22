@@ -1,0 +1,2 @@
+member에 대한 insert 쿼리문
+table에 대한 insert 쿼리문

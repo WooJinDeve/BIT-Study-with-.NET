@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="78d6dca0-959e-4707-b62d-7279f257c973" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>true</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:51271/CCal.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="CCal.wsdl" MetadataType="Wsdl" ID="4e182ec3-7abe-4d4a-8ddc-c5ac817509f0" SourceId="1" SourceUrl="http://localhost:51271/CCal.svc?wsdl" />
+    <MetadataFile FileName="CCal.disco" MetadataType="Disco" ID="0502514c-9b86-490a-be2c-427911dfddd8" SourceId="1" SourceUrl="http://localhost:51271/CCal.svc?disco" />
+    <MetadataFile FileName="CCal.xsd" MetadataType="Schema" ID="378f1127-2252-451a-ad70-6c28de832ea3" SourceId="1" SourceUrl="http://localhost:51271/CCal.svc?xsd=xsd0" />
+    <MetadataFile FileName="CCal1.xsd" MetadataType="Schema" ID="42902729-63c7-4699-9306-3357dfbfa3b9" SourceId="1" SourceUrl="http://localhost:51271/CCal.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

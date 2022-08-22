@@ -1,0 +1,52 @@
+테이블 생성 코드
+CREATE TABLE [dbo].[Member] (
+    [MID]   INT          IDENTITY (1000, 10) NOT NULL,
+    [NAME]  VARCHAR (20) NOT NULL,
+    [PHONE] VARCHAR (20) NOT NULL,
+    CONSTRAINT [PK_Member] PRIMARY KEY CLUSTERED ([MID] ASC)
+);
+CREATE TABLE [dbo].[PCData]
+(
+   [PID] INT NOT NULL  IDENTITY, 
+    [MID] INT NOT NULL, 
+    [TID] INT NOT NULL, 
+    [STIME] DATETIME NOT NULL, 
+    [ETIME] DATETIME NULL, 
+    [PRICE] INT NULL DEFAULT 0, 
+    CONSTRAINT [PK_PCData] PRIMARY KEY ([PID]) 
+)
+CREATE TABLE [dbo].[Table] (
+    [TID]   INT IDENTITY (1, 1) NOT NULL,
+    [STATE] INT DEFAULT ((0)) NULL,
+    PRIMARY KEY CLUSTERED ([TID] ASC)
+);
+
+
+-- 좌석표 출력 (table, select)
+select * from [Table];
+
+-- 좌석 선택 입력 (Table, update)
+update [Table] set State = 1 where TID = {0}; // Tid
+
+-- 회원 전화번호 (member, select)
+select MID from Member where PHONE = {0}; // phone
+
+-- 입실 최종 입력
+insert into PCData(mid,tid,stime,etime) values({0},{1},getdate(),null); // mid, tid
+
+
+-- 퇴실 
+update [Table] set State = 0 where TID = 1;
+
+-- 금액산정(10분당 500원)
+update PCData set ETIME = GETDATE() where MID = {0} and price = 0; // mid
+update PCData set PRICE = (DATEDIFF(MINUTE,STIME,ETIME)/10)*500 where mid = {0} and price = 0;  // mid
+
+-- 고객수
+select count(*) from PCData;
+
+-- 전체 수익
+select sum(PRICE) from PCData;
+
+--좌석별 수익
+select sum(PRICE), TID from PCData group by TID Having Sum(price) != 0;

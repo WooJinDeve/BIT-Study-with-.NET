@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\0412_Winform\0412_Winform\bin\Debug\0412_Winform.exe.config
+C:\Users\user\Desktop\0412_Winform\0412_Winform\bin\Debug\0412_Winform.exe
+C:\Users\user\Desktop\0412_Winform\0412_Winform\bin\Debug\0412_Winform.pdb
+C:\Users\user\Desktop\0412_Winform\0412_Winform\obj\Debug\0412_Winform.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\0412_Winform\0412_Winform\obj\Debug\0412_Winform.exe
+C:\Users\user\Desktop\0412_Winform\0412_Winform\obj\Debug\0412_Winform.pdb
+C:\Users\user\Desktop\0412_Winform\0412_Winform\obj\Debug\0412_Winform.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\0412_Winform\0412_Winform\obj\Debug\_0412_Winform.TestNewWinForm.resources
+C:\Users\user\Desktop\0412_Winform\0412_Winform\obj\Debug\0412_Winform.csproj.GenerateResource.cache

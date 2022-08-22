@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\0412_Form1\0412_Form1\bin\Debug\0412_Form1.exe.config
+C:\Users\user\Desktop\0412_Form1\0412_Form1\bin\Debug\0412_Form1.exe
+C:\Users\user\Desktop\0412_Form1\0412_Form1\bin\Debug\0412_Form1.pdb
+C:\Users\user\Desktop\0412_Form1\0412_Form1\obj\Debug\_0412_Form1.Properties.Resources.resources
+C:\Users\user\Desktop\0412_Form1\0412_Form1\obj\Debug\0412_Form1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\0412_Form1\0412_Form1\obj\Debug\0412_Form1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\0412_Form1\0412_Form1\obj\Debug\0412_Form1.exe
+C:\Users\user\Desktop\0412_Form1\0412_Form1\obj\Debug\0412_Form1.pdb
+C:\Users\user\Desktop\0412_Form1\0412_Form1\obj\Debug\_0412_Form1.Form1.resources
+C:\Users\user\Desktop\0412_Form1\0412_Form1\obj\Debug\_0412_Form1.ColorForm.resources
+C:\Users\user\Desktop\0412_Form1\0412_Form1\obj\Debug\_0412_Form1.Color_Form.resources
+C:\Users\user\Desktop\0412_Form1\0412_Form1\obj\Debug\_0412_Form1.Color_Formcom.resources
+C:\Users\user\Desktop\0412_Form1\0412_Form1\obj\Debug\_0412_Form1.Paint_Form.resources
+C:\Users\user\Desktop\0412_Form1\0412_Form1\obj\Debug\_0412_Form1.Image_Form.resources

@@ -1,0 +1,9 @@
+﻿<Application x:Class="_0419_바인딩.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:_0419_바인딩"
+             Startup="Application_Statup">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

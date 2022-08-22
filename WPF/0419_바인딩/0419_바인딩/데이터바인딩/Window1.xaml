@@ -1,0 +1,85 @@
+﻿<Window x:Class="_0419_바인딩.데이터바인딩.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_0419_바인딩.데이터바인딩"
+        mc:Ignorable="d"
+        Title="Window1" Height="450" Width="800">
+    <Window.Resources>
+        <local:Person x:Key="per" Name="홍길동" Phone="010-1111-1111" Age="10" Male="True" />
+        <local:MaleToStringConverter x:Key="maleStringConvertBack"/>
+        <local:MaleToFemaleConverter x:Key="maleConverter"/>
+        <local:People x:Key="people">
+            <local:Person Name="이길동" Phone ="010-4444-4444" Age="30" Male="False"/>
+            <local:Person Name="최길동" Phone ="010-5555-5555" Age="40" Male="True"/>
+        </local:People>
+    </Window.Resources>
+    <StackPanel Name ="panel" DataContext="{StaticResource people}">
+        <!--첫번째 라인-->
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <StackPanel Name="sp1" Background="Beige" Grid.Column="0" Margin="5" Orientation="Horizontal">
+                <Label>이름(_N) :</Label>
+                <TextBox Name="name" Foreground="DarkRed" Text="{Binding Path=Name}" Width="120" />
+            </StackPanel>
+            <StackPanel Background="{Binding Path=Background, ElementName=sp1}"  Grid.Column="1" Margin="5" Orientation="Horizontal">
+                <Label>전화번호(_P) :</Label>
+                <TextBox Name="phone" Text="{Binding Path=Phone}" Width="120" />
+            </StackPanel>
+            <StackPanel Grid.Column="2" Margin="5" Orientation="Horizontal">
+                <Label>나이(_A) :</Label>
+                <TextBox Name="age"  Width="120">
+                    <Binding Path="Age" NotifyOnValidationError="True">
+                        <Binding.ValidationRules>
+                            <local:AgeValidationRule Max="200" Min="0" />
+                        </Binding.ValidationRules>
+                    </Binding>            
+                </TextBox>
+            </StackPanel>
+            <StackPanel Grid.Column="3" Margin="5" Orientation="Horizontal">
+                <RadioButton IsChecked="{Binding Path=Male}" Content="남" Margin="5,5,20,5" />
+                <RadioButton IsChecked="{Binding Path=Male, Converter={StaticResource maleConverter}}"  Content="여" Margin="5" />
+            </StackPanel>
+        </Grid>
+        <!--두번째 라인-->
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Border Grid.Column="0" Margin="2" BorderBrush="Black" BorderThickness="2">                <Label Height="25" Foreground="{Binding Path=Foreground, ElementName=name}" Name="nameLabel" Content="{Binding Path=Name}"/>            </Border>
+            <Border Grid.Column="1" Margin="2" BorderBrush="Black" BorderThickness="2">                <Label Height="25" Name="phoneLabel" Content="{Binding Path=Phone}"/>            </Border>
+            <Border Grid.Column="2" Margin="2" BorderBrush="Black" BorderThickness="2">                <Label Height="25" Name="ageLabel" Content="{Binding Path=Age}"/>            </Border>
+            <Border Grid.Column="3" Margin="2" BorderBrush="Black" BorderThickness="2">                <Label Height="25" Name="maleLabel" Content="{Binding Path=Male, Converter={StaticResource maleStringConvertBack}}"/>            </Border>
+        </Grid>
+        <!--세번째 라인-->
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Button Name="prevButton" Content="이전" Margin="3" Height="30" Grid.Column="0" Click="prevButton_Click"/>
+            <Button Name="nextButton" Content="다음" Margin="3" Height="30" Grid.Column="1" Click="nextButton_Click"/>
+        </Grid>
+        <!--네번째 라인-->
+        <Button Name="eraseButton" Margin="3" Height="30" Content="Clear" Click="eraseButton_Click"/>
+        <!--다섯번째 라인-->
+        <ListBox Height="100" ItemsSource="{Binding}" IsSynchronizedWithCurrentItem="True">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock>
+                        <TextBlock Text="{Binding Path=Name}" />
+                        <TextBlock Text="{Binding Path=Phone}" />
+                        <TextBlock Text="{Binding Path=Age}" />
+                        <TextBlock Text="{Binding Path=Male, Converter={StaticResource maleStringConvertBack}}" />                                           </TextBlock>                </DataTemplate>            </ListBox.ItemTemplate>            
+        </ListBox>
+    </StackPanel>
+</Window>

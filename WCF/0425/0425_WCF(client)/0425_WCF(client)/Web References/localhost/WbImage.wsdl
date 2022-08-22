@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="GetPicture">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="strFileName" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetPictureResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetPictureResult" type="s:base64Binary" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetPictureList">
+        <s:complexType />
+      </s:element>
+      <s:element name="GetPictureListResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetPictureListResult" type="tns:ArrayOfString" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfString">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="string" nillable="true" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="UploadPicture">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="strFileName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="bytePic" type="s:base64Binary" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UploadPictureResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="UploadPictureResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="GetPictureSoapIn">
+    <wsdl:part name="parameters" element="tns:GetPicture" />
+  </wsdl:message>
+  <wsdl:message name="GetPictureSoapOut">
+    <wsdl:part name="parameters" element="tns:GetPictureResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetPictureListSoapIn">
+    <wsdl:part name="parameters" element="tns:GetPictureList" />
+  </wsdl:message>
+  <wsdl:message name="GetPictureListSoapOut">
+    <wsdl:part name="parameters" element="tns:GetPictureListResponse" />
+  </wsdl:message>
+  <wsdl:message name="UploadPictureSoapIn">
+    <wsdl:part name="parameters" element="tns:UploadPicture" />
+  </wsdl:message>
+  <wsdl:message name="UploadPictureSoapOut">
+    <wsdl:part name="parameters" element="tns:UploadPictureResponse" />
+  </wsdl:message>
+  <wsdl:portType name="WbImageSoap">
+    <wsdl:operation name="GetPicture">
+      <wsdl:input message="tns:GetPictureSoapIn" />
+      <wsdl:output message="tns:GetPictureSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetPictureList">
+      <wsdl:input message="tns:GetPictureListSoapIn" />
+      <wsdl:output message="tns:GetPictureListSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="UploadPicture">
+      <wsdl:input message="tns:UploadPictureSoapIn" />
+      <wsdl:output message="tns:UploadPictureSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="WbImageSoap" type="tns:WbImageSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetPicture">
+      <soap:operation soapAction="http://tempuri.org/GetPicture" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetPictureList">
+      <soap:operation soapAction="http://tempuri.org/GetPictureList" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UploadPicture">
+      <soap:operation soapAction="http://tempuri.org/UploadPicture" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="WbImageSoap12" type="tns:WbImageSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetPicture">
+      <soap12:operation soapAction="http://tempuri.org/GetPicture" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetPictureList">
+      <soap12:operation soapAction="http://tempuri.org/GetPictureList" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UploadPicture">
+      <soap12:operation soapAction="http://tempuri.org/UploadPicture" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="WbImage">
+    <wsdl:port name="WbImageSoap" binding="tns:WbImageSoap">
+      <soap:address location="https://localhost:44311/WbImage.asmx" />
+    </wsdl:port>
+    <wsdl:port name="WbImageSoap12" binding="tns:WbImageSoap12">
+      <soap12:address location="https://localhost:44311/WbImage.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

@@ -1,0 +1,9 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Account>
+    <accid>1000</accid>
+    <memid>100</memid>
+    <balance>1000</balance>
+    <newtime>2022-04-07T15:05:56.5351405+09:00</newtime>
+  </Account>
+</DocumentElement>

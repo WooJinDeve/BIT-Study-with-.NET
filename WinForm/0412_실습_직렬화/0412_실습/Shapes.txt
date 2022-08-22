@@ -1,0 +1,16 @@
+15
+RECT 1 Color [Aqua] 175 99
+RECT 1 Color [Aqua] 380 86
+RECT 1 Color [Aqua] 329 222
+RECT 1 Color [Aqua] 64 176
+RECT 1 Color [Aqua] 131 29
+RECT 1 Color [Aqua] 239 171
+RECT 1 Color [Aqua] 382 145
+RECT 1 Color [Aqua] 247 282
+RECT 1 Color [Aqua] 109 35
+RECT 1 Color [Aqua] 301 111
+RECT 1 Color [Aqua] 89 270
+RECT 1 Color [Aqua] 397 55
+RECT 1 Color [Aqua] 398 158
+RECT 1 Color [Aqua] 144 99
+RECT 1 Color [Aqua] 288 98

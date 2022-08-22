@@ -1,0 +1,60 @@
+<?xml version="1.0" standalone="yes"?>
+<xs:schema id="BankDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xs:element name="BankDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Member">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="memid" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="100" type="xs:int" />
+              <xs:element name="name" type="xs:string" />
+              <xs:element name="phone" type="xs:string" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Account">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="accid" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="1000" type="xs:int" />
+              <xs:element name="memid" type="xs:int" />
+              <xs:element name="balance" type="xs:int" default="0" />
+              <xs:element name="newtime" type="xs:dateTime" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Accountio">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="accio" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="1" type="xs:int" />
+              <xs:element name="accid" type="xs:int" />
+              <xs:element name="input" type="xs:int" />
+              <xs:element name="output" type="xs:int" />
+              <xs:element name="balance" type="xs:int" />
+              <xs:element name="newtime" type="xs:dateTime" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//Member" />
+      <xs:field xpath="memid" />
+    </xs:unique>
+    <xs:unique name="Account_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//Account" />
+      <xs:field xpath="accid" />
+    </xs:unique>
+    <xs:unique name="Accountio_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//Accountio" />
+      <xs:field xpath="accio" />
+    </xs:unique>
+    <xs:keyref name="AccountAccountIO" refer="Account_Constraint1">
+      <xs:selector xpath=".//Accountio" />
+      <xs:field xpath="accid" />
+    </xs:keyref>
+    <xs:keyref name="MemberAccount" refer="Constraint1">
+      <xs:selector xpath=".//Account" />
+      <xs:field xpath="memid" />
+    </xs:keyref>
+  </xs:element>
+</xs:schema>

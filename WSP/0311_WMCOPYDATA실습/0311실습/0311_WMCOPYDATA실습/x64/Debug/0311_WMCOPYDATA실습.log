@@ -1,0 +1,8 @@
+﻿  fun.cpp
+  handler.cpp
+  start.cpp
+C:\Users\User\Desktop\정우진\비트고급\WSP\0311_WMCOPYDATA실습\0311_WMCOPYDATA실습\start.cpp(18,1): error C2664: 'INT_PTR DialogBoxParamW(HINSTANCE,LPCWSTR,HWND,DLGPROC,LPARAM)': 인수 4을(를) 'BOOL (__cdecl *)(HWND,UINT,WPARAM,LPARAM)'에서 'DLGPROC'(으)로 변환할 수 없습니다.
+C:\Users\User\Desktop\정우진\비트고급\WSP\0311_WMCOPYDATA실습\0311_WMCOPYDATA실습\start.cpp(18,1): message : 대상 형식과 일치하는 범위에 이름이 같은 함수가 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(5068,1): message : 'DialogBoxParamW' 선언을 참조하십시오.
+  ui.cpp
+  코드를 생성하고 있습니다...

@@ -1,0 +1,14 @@
+F:\22-1 (비트 고급)\04_C#\0329_과제\0329_과제\bin\Debug\0329_과제.exe.config
+F:\22-1 (비트 고급)\04_C#\0329_과제\0329_과제\bin\Debug\0329_과제.exe
+F:\22-1 (비트 고급)\04_C#\0329_과제\0329_과제\bin\Debug\0329_과제.pdb
+F:\22-1 (비트 고급)\04_C#\0329_과제\0329_과제\obj\Debug\0329_과제.csproj.CoreCompileInputs.cache
+F:\22-1 (비트 고급)\04_C#\0329_과제\0329_과제\obj\Debug\0329_과제.exe
+F:\22-1 (비트 고급)\04_C#\0329_과제\0329_과제\obj\Debug\0329_과제.pdb
+C:\Users\user\Desktop\2조_완료_0329_과제\0329_과제\bin\Debug\0329_과제.exe.config
+C:\Users\user\Desktop\2조_완료_0329_과제\0329_과제\bin\Debug\0329_과제.exe
+C:\Users\user\Desktop\2조_완료_0329_과제\0329_과제\bin\Debug\0329_과제.pdb
+C:\Users\user\Desktop\2조_완료_0329_과제\0329_과제\obj\Debug\0329_과제.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\2조_완료_0329_과제\0329_과제\obj\Debug\0329_과제.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\2조_완료_0329_과제\0329_과제\obj\Debug\0329_과제.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\2조_완료_0329_과제\0329_과제\obj\Debug\0329_과제.exe
+C:\Users\user\Desktop\2조_완료_0329_과제\0329_과제\obj\Debug\0329_과제.pdb

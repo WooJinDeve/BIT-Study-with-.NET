@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\0426_DBWCF\0426_DBWCF\bin\Debug\0426_DBWCF.exe.config
+C:\Users\user\source\repos\0426_DBWCF\0426_DBWCF\bin\Debug\0426_DBWCF.exe
+C:\Users\user\source\repos\0426_DBWCF\0426_DBWCF\bin\Debug\0426_DBWCF.pdb
+C:\Users\user\source\repos\0426_DBWCF\0426_DBWCF\obj\Debug\0426_DBWCF.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\0426_DBWCF\0426_DBWCF\obj\Debug\0426_DBWCF.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\0426_DBWCF\0426_DBWCF\obj\Debug\0426_DBWCF.exe
+C:\Users\user\source\repos\0426_DBWCF\0426_DBWCF\obj\Debug\0426_DBWCF.pdb

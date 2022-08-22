@@ -1,0 +1,20 @@
+F:\비트 고급 자료\0328_C#\0328_조별과제\0328_조별과제\bin\Debug\0328_조별과제.exe
+F:\비트 고급 자료\0328_C#\0328_조별과제\0328_조별과제\bin\Debug\0328_조별과제.exe.config
+F:\비트 고급 자료\0328_C#\0328_조별과제\0328_조별과제\obj\Debug\0328_조별과제.csproj.AssemblyReference.cache
+F:\비트 고급 자료\0328_C#\0328_조별과제\0328_조별과제\obj\Debug\0328_조별과제.csproj.CoreCompileInputs.cache
+F:\비트 고급 자료\0328_C#\0328_조별과제\0328_조별과제\obj\Debug\0328_조별과제.exe
+F:\비트 고급 자료\0328_C#\0328_조별과제\0328_조별과제\obj\Debug\0328_조별과제.pdb
+C:\Users\user\Desktop\0328_4조\0328_조별과제\0328_조별과제\bin\Debug\0328_조별과제.exe.config
+C:\Users\user\Desktop\0328_4조\0328_조별과제\0328_조별과제\bin\Debug\0328_조별과제.exe
+C:\Users\user\Desktop\0328_4조\0328_조별과제\0328_조별과제\bin\Debug\0328_조별과제.pdb
+C:\Users\user\Desktop\0328_4조\0328_조별과제\0328_조별과제\obj\Debug\0328_조별과제.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\0328_4조\0328_조별과제\0328_조별과제\obj\Debug\0328_조별과제.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\0328_4조\0328_조별과제\0328_조별과제\obj\Debug\0328_조별과제.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\0328_4조\0328_조별과제\0328_조별과제\obj\Debug\0328_조별과제.exe
+C:\Users\user\Desktop\0328_4조\0328_조별과제\0328_조별과제\obj\Debug\0328_조별과제.pdb
+C:\Users\ccm\Desktop\0328_조별과제\0328_조별과제\bin\Debug\0328_조별과제.exe.config
+C:\Users\ccm\Desktop\0328_조별과제\0328_조별과제\bin\Debug\0328_조별과제.exe
+C:\Users\ccm\Desktop\0328_조별과제\0328_조별과제\bin\Debug\0328_조별과제.pdb
+C:\Users\ccm\Desktop\0328_조별과제\0328_조별과제\obj\Debug\0328_조별과제.csproj.CoreCompileInputs.cache
+C:\Users\ccm\Desktop\0328_조별과제\0328_조별과제\obj\Debug\0328_조별과제.exe
+C:\Users\ccm\Desktop\0328_조별과제\0328_조별과제\obj\Debug\0328_조별과제.pdb
