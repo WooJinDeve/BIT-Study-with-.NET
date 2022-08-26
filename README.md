@@ -1,6 +1,29 @@
-# C-Sharp-Study
+## 개요
 
-- 비트고급35기 [2022-03-02 ~ 2022-05-01] 까지 배운 내용을 정리한 Repository 입니다.
+- 비트고급35기에서 배운 내용을 정리한 `Repository` 입니다.
+- **기간** 
+  - `2022-03-02 ~ 2022-05-01`
+
+## 프로젝트 설정
+- **Visual Studio 2022** 
+  - **Download**
+    - [https://visualstudio.microsoft.com/ko/vs/whatsnew/](https://visualstudio.microsoft.com/ko/vs/whatsnew/)
+  - **Project Template**
+    - `WPF`
+       - `새 프로젝트 만들기` -> `WPF 앱(.NET Framwork)` 
+    - `WinForm`
+       - `새 프로젝트 만들기` -> `Windows Form 앱(.NET Framwork)` 
+    - `Win32API 
+       - `새 프로젝트 만들기` -> `Windows 데스크톱 마법사` 
+    - `Console App`
+       - `새 프로젝트 만들기` -> `콘솔 앱(.NET Framwork)` 
+  - **Open API**
+    - [네이버 개발자 센터](https://developers.naver.com/main/)
+    - [카카오 개발자 센터](https://developers.naver.com/main/)
+    
+ - **MSSQL DataBase**
+   - **Download**
+     - [https://www.microsoft.com/ko-kr/sql-server/sql-server-downloads](https://www.microsoft.com/ko-kr/sql-server/sql-server-downloads)
 
 <details>
 <summary><h2>Win32API Programing</h2></summary>
